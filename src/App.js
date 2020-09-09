@@ -1207,22 +1207,22 @@ class App extends Component {
 				<div class="videos">
 				 	<div class="slider-for-2 video-ft">
 				 		<div>
-					    	<iframe class="item-video" src="/" data-src="/https://www.youtube.com/embed/1Q8fG0TtVAY"></iframe>
+					    	<iframe class="item-video" src="/https://www.youtube.com/embed/1Q8fG0TtVAY"></iframe>
 					    </div>
 					    <div>
-					    	<iframe class="item-video" src="/" data-src="/https://www.youtube.com/embed/w0qQkSuWOS8"></iframe>
+					    	<iframe class="item-video" src="/https://www.youtube.com/embed/w0qQkSuWOS8"></iframe>
 					    </div>
 					    <div>
-					    	<iframe class="item-video" src="/" data-src="/https://www.youtube.com/embed/44LdLqgOpjo"></iframe>
+					    	<iframe class="item-video" src="/https://www.youtube.com/embed/44LdLqgOpjo"></iframe>
 					    </div>
 					    <div>
-					    	<iframe class="item-video" src="/" data-src="/https://www.youtube.com/embed/gbug3zTm3Ws"></iframe>
+					    	<iframe class="item-video" src="/https://www.youtube.com/embed/gbug3zTm3Ws"></iframe>
 					    </div>
 					    <div>
-					    	<iframe class="item-video" src="/" data-src="/https://www.youtube.com/embed/e3Nl_TCQXuw"></iframe>
+					    	<iframe class="item-video" src="/https://www.youtube.com/embed/e3Nl_TCQXuw"></iframe>
 					    </div>
 					    <div>
-					    	<iframe class="item-video" src="/" data-src="/https://www.youtube.com/embed/NxhEZG0k9_w"></iframe>
+					    	<iframe class="item-video" src="/https://www.youtube.com/embed/NxhEZG0k9_w"></iframe>
 					    </div>
 						
 						
@@ -1379,7 +1379,7 @@ class App extends Component {
 				<div class="sidebar">
 					<div class="sb-facebook sb-it">
 						<h4 class="sb-title">Find us on Facebook</h4>
-						<iframe src="/" data-src="/https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fhaintheme%2F%3Ffref%3Dts&tabs=timeline&width=300&height=315px&small_header=true&adapt_container_width=false&hide_cover=false&show_facepile=true&appId" width="300" height="315" style={{border:"none",overflow:"hidden"}} ></iframe>
+						<iframe src="/https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fhaintheme%2F%3Ffref%3Dts&tabs=timeline&width=300&height=315px&small_header=true&adapt_container_width=false&hide_cover=false&show_facepile=true&appId" width="300" height="315" style={{border:"none",overflow:"hidden"}} ></iframe>
 					</div>
 					<div class="sb-twitter sb-it">
 						<h4 class="sb-title">Tweet to us</h4>
