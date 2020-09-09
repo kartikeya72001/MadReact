@@ -5,7 +5,37 @@ import "./css/style.css";
 import "./js/jquery";
 //import "./js/plugins";
 //import "./js/plugins2";
-import image1 from "./images/uploads/mv-item1.jpg";
+import ads1 from "./images/uploads/ads1.png";
+import ads2 from "./images/uploads/ads2.png";
+import ava1 from "./images/uploads/ava1.jpg";
+import ava2 from "./images/uploads/ava2.jpg";
+import ava3 from "./images/uploads/ava3.jpg";
+import ava4 from "./images/uploads/ava4.jpg";
+import blog_it1 from "./images/uploads/blog-it1.jpg";
+import blog_it2 from "./images/uploads/blog-it2.jpg";
+import drop_icon from "./images/uploads/drop-icon.png";
+import ft_bg from "./images/uploads/ft-bg.jpg";
+import mv_item1 from "./images/uploads/mv-item1.jpg";
+import mv_item2 from "./images/uploads/mv-item2.jpg";
+import mv_item3 from "./images/uploads/mv-item3.jpg";
+import mv_item4 from "./images/uploads/mv-item4.jpg";
+import mv_item5 from "./images/uploads/mv-item5.jpg";
+import mv_item6 from "./images/uploads/mv-item6.jpg";
+import mv_item7 from "./images/uploads/mv-item7.jpg";
+import mv_item8 from "./images/uploads/mv-item8.jpg";
+import search_bg from "./images/uploads/search-bg.png";
+import slider1 from "./images/uploads/slider1.jpg";
+import slider2 from "./images/uploads/slider2.jpg";
+import slider3 from "./images/uploads/slider3.jpg";
+import slider4 from "./images/uploads/slider4.jpg";
+import slider_bg from "./images/uploads/slider-bg.jpg";
+import topsearch from "./images/uploads/topsearch.png";
+import trailer2 from "./images/uploads/trailer2.jpg";
+import trailer3 from "./images/uploads/trailer3.png";
+import trailer4 from "./images/uploads/trailer4.png";
+import trailer5 from "./images/uploads/trailer5.jpg";
+import trailer6 from "./images/uploads/trailer6.jpg";
+import trailer7 from "./images/uploads/trailer7.jpg";
 
 class App extends Component {
    
@@ -142,7 +172,7 @@ class App extends Component {
 	    	<div  class="slick-multiItemSlider">
 	    		<div class="movie-item">
 	    			<div class="mv-img">
-	    				<a href="#"><img src="images/uploads/slider1.jpg" alt="" width="285" height="437" /></a>
+	    				<a href="#"><img src={slider1} alt="" width="285" height="437" /></a>
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
@@ -154,7 +184,7 @@ class App extends Component {
 	    		</div>
 				<div class="movie-item">
 	    			<div class="mv-img">
-	    				<a href="#"><img src="./images/uploads/slider2.jpg" alt="" width="285" height="437" /></a>
+	    				<a href="#"><img src={slider2.jpg} alt="" width="285" height="437" /></a>
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
@@ -166,7 +196,7 @@ class App extends Component {
 	    		</div>
 	    		<div class="movie-item">
 	    			<div class="mv-img">
-	    				<a href="#"><img src="images/uploads/slider3.jpg" alt="" width="285" height="437" /></a>
+	    				<a href="#"><img src={slider3} alt="" width="285" height="437" /></a>
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
@@ -178,7 +208,7 @@ class App extends Component {
 	    		</div>
 	    		<div class="movie-item">
 	    			<div class="mv-img">
-	    				<a href="#"><img src="images/uploads/slider4.jpg" alt="" width="285" height="437" /></a>
+	    				<a href="#"><img src={slider4} alt="" width="285" height="437" /></a>
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
@@ -190,7 +220,7 @@ class App extends Component {
 	    		</div>
 	    		<div class="movie-item">
 	    			<div class="mv-img">
-	    				<a href="#"><img src="images/uploads/slider1.jpg" alt="" width="285" height="437" /></a>
+	    				<a href="#"><img src={slider1} alt="" width="285" height="437" /></a>
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
@@ -202,7 +232,7 @@ class App extends Component {
 	    		</div>
 				<div class="movie-item">
 	    			<div class="mv-img">
-	    				<a href="#"><img src="images/uploads/slider2.jpg" alt="" width="285" height="437" /></a>
+	    				<a href="#"><img src={slider2} alt="" width="285" height="437" /></a>
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
@@ -214,7 +244,7 @@ class App extends Component {
 	    		</div>
 	    		<div class="movie-item">
 	    			<div class="mv-img">
-	    				<img src="images/uploads/slider3.jpg" alt="" width="285" height="437" />
+	    				<img src={slider3} alt="" width="285" height="437" />
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
@@ -226,7 +256,7 @@ class App extends Component {
 	    		</div>
 	    		<div class="movie-item">
 	    			<div class="mv-img">
-	    				<img src="images/uploads/slider4.jpg" alt="" width="285" height="437" />
+	    				<img src={slider4} alt="" width="285" height="437" />
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
@@ -238,7 +268,7 @@ class App extends Component {
 	    		</div>
 	    		<div class="movie-item">
 	    			<div class="mv-img">
-	    				<img src="images/uploads/slider3.jpg" alt="" width="285" height="437" />
+	    				<img src={slider3} alt="" width="285" height="437" />
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
@@ -274,7 +304,7 @@ class App extends Component {
 				            		<div class="slide-it">
 				            			<div class="movie-item">
 					            			<div class="mv-img">
-					            				<img src={image1} alt="" width="185" height="284" />
+					            				<img src={mv_item1} alt="" width="185" height="284" />
 					            			</div> 
 					            			<div class="hvr-inner">
 					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
@@ -288,7 +318,7 @@ class App extends Component {
 									<div class="slide-it">
 										<div class="movie-item">
 					            			<div class="mv-img">
-					            				<img src="images/uploads/mv-item2.jpg" alt="" width="185" height="284" />
+					            				<img src={mv_item2} alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
 					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
@@ -302,7 +332,7 @@ class App extends Component {
 				            		<div class="slide-it">
 				            			<div class="movie-item">
 					            			<div class="mv-img">
-					            				<img src="images/uploads/mv-item3.jpg" alt="" width="185" height="284" />
+					            				<img src={mv_item3} alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
 					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
@@ -316,7 +346,7 @@ class App extends Component {
 				            		<div class="slide-it">
 				            			<div class="movie-item">
 					            			<div class="mv-img">
-					            				<img src="images/uploads/mv-item4.jpg" alt="" width="185" height="284" />
+					            				<img src={mv_item4} alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
 					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
@@ -330,7 +360,7 @@ class App extends Component {
 				            		<div class="slide-it">
 				            			<div class="movie-item">
 					            			<div class="mv-img">
-					            				<img src="images/uploads/mv-item5.jpg" alt="" width="185" height="284" />
+					            				<img src={mv_item5} alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
 					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
@@ -344,7 +374,7 @@ class App extends Component {
 									<div class="slide-it">
 										<div class="movie-item">
 					            			<div class="mv-img">
-					            				<img src="images/uploads/mv-item6.jpg" alt="" width="185" height="284" />
+					            				<img src={mv_item6} alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
 					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
@@ -358,7 +388,7 @@ class App extends Component {
 				            		<div class="slide-it">
 				            			<div class="movie-item">
 					            			<div class="mv-img">
-					            				<img src="images/uploads/mv-item7.jpg" alt="" width="185" height="284" />
+					            				<img src={mv_item7} alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
 					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
@@ -372,7 +402,7 @@ class App extends Component {
 				            		<div class="slide-it">
 				            			<div class="movie-item">
 					            			<div class="mv-img">
-					            				<img src="images/uploads/mv-item8.jpg" alt="" width="185" height="284" />
+					            				<img src={mv_item8}alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
 					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
@@ -386,7 +416,7 @@ class App extends Component {
 				            		<div class="slide-it">
 				            			<div class="movie-item">
 					            			<div class="mv-img">
-					            				<img src="images/uploads/mv-item3.jpg" alt="" width="185" height="284" />
+					            				<img src={mv_item3} alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
 					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
@@ -406,7 +436,7 @@ class App extends Component {
 				            		<div class="slide-it">
 				            			<div class="movie-item">
 					            			<div class="mv-img">
-					            				<img src="images/uploads/mv-item5.jpg" alt="" width="185" height="284" />
+					            				<img src={mv_item5} alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
 					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
@@ -420,7 +450,7 @@ class App extends Component {
 									<div class="slide-it">
 										<div class="movie-item">
 					            			<div class="mv-img">
-					            				<img src="images/uploads/mv-item6.jpg" alt="" width="185" height="284" />
+					            				<img src={mv_item6} alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
 					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
@@ -434,7 +464,7 @@ class App extends Component {
 				            		<div class="slide-it">
 				            			<div class="movie-item">
 					            			<div class="mv-img">
-					            				<img src="images/uploads/mv-item7.jpg" alt="" width="185" height="284" />
+					            				<img src={mv_item7} alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
 					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
@@ -448,7 +478,7 @@ class App extends Component {
 				            		<div class="slide-it">
 				            			<div class="movie-item">
 					            			<div class="mv-img">
-					            				<img src="images/uploads/mv-item8.jpg" alt="" width="185" height="284" />
+					            				<img src={mv_item8} alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
 					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
@@ -462,7 +492,7 @@ class App extends Component {
 				            		<div class="slide-it">
 				            			<div class="movie-item">
 					            			<div class="mv-img">
-					            				<img src="images/uploads/mv-item3.jpg" alt="" width="185" height="284" />
+					            				<img src={mv_item3} alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
 					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
@@ -482,7 +512,7 @@ class App extends Component {
 				            		<div class="slide-it">
 				            			<div class="movie-item">
 					            			<div class="mv-img">
-					            				<img src="images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
+					            				<img src={mv_item1} alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
 					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
@@ -496,7 +526,7 @@ class App extends Component {
 									<div class="slide-it">
 										<div class="movie-item">
 					            			<div class="mv-img">
-					            				<img src="images/uploads/mv-item2.jpg" alt="" width="185" height="284" />
+					            				<img src={mv_item2} alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
 					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
@@ -510,7 +540,7 @@ class App extends Component {
 				            		<div class="slide-it">
 				            			<div class="movie-item">
 					            			<div class="mv-img">
-					            				<img src="images/uploads/mv-item3.jpg" alt="" width="185" height="284" />
+					            				<img src={mv_item3} alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
 					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
@@ -524,7 +554,7 @@ class App extends Component {
 				            		<div class="slide-it">
 				            			<div class="movie-item">
 					            			<div class="mv-img">
-					            				<img src="images/uploads/mv-item4.jpg" alt="" width="185" height="284" />
+					            				<img src={mv_item4} alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
 					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
@@ -538,7 +568,7 @@ class App extends Component {
 				            		<div class="slide-it">
 				            			<div class="movie-item">
 					            			<div class="mv-img">
-					            				<img src="images/uploads/mv-item3.jpg" alt="" width="185" height="284" />
+					            				<img src={mv_item3} alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
 					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
@@ -558,7 +588,7 @@ class App extends Component {
 				            		<div class="slide-it">
 				            			<div class="movie-item">
 					            			<div class="mv-img">
-					            				<img src="images/uploads/mv-item5.jpg" alt="" width="185" height="284" />
+					            				<img src={mv_item5} alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
 					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
@@ -572,7 +602,7 @@ class App extends Component {
 									<div class="slide-it">
 										<div class="movie-item">
 					            			<div class="mv-img">
-					            				<img src="images/uploads/mv-item6.jpg" alt="" width="185" height="284" />
+					            				<img src={mv_item6} alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
 					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
@@ -586,7 +616,7 @@ class App extends Component {
 				            		<div class="slide-it">
 				            			<div class="movie-item">
 					            			<div class="mv-img">
-					            				<img src="images/uploads/mv-item7.jpg" alt="" width="185" height="284" />
+					            				<img src={mv_item7} alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
 					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
@@ -600,7 +630,7 @@ class App extends Component {
 				            		<div class="slide-it">
 				            			<div class="movie-item">
 					            			<div class="mv-img">
-					            				<img src="images/uploads/mv-item8.jpg" alt="" width="185" height="284" />
+					            				<img src={mv_item8} alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
 					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
@@ -614,7 +644,7 @@ class App extends Component {
 				            		<div class="slide-it">
 				            			<div class="movie-item">
 					            			<div class="mv-img">
-					            				<img src="images/uploads/mv-item3.jpg" alt="" width="185" height="284" />
+					            				<img src={mv_item3} alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
 					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
@@ -648,7 +678,7 @@ class App extends Component {
 				            		<div class="slide-it">
 				            			<div class="movie-item">
 					            			<div class="mv-img">
-					            				<img src="images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
+					            				<img src={mv_item1} alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
 					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
@@ -662,7 +692,7 @@ class App extends Component {
 									<div class="slide-it">
 										<div class="movie-item">
 					            			<div class="mv-img">
-					            				<img src="images/uploads/mv-item2.jpg" alt="" width="185" height="284" />
+					            				<img src={mv_item2} alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
 					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
