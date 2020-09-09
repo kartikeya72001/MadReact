@@ -1,10 +1,10 @@
 import React, {Component} from 'react';
 import "./css/plugins.css";
 import "./css/style.css";
-import "./js/custom";
-import "./js/jquery";
-import "./js/plugins";
-import "./js/plugins2";
+//import "./js/custom";
+//import "./js/jquery";
+//import "./js/plugins";
+//import "./js/plugins2";
 
 class App extends Component {
    
