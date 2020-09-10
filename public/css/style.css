@@ -4124,13 +4124,13 @@ ul {
 .movie-items .movie-item .title-in h6 a {
   font-family: 'Dosis', sans-serif;
   font-size: 14px;
-  color: black;
+  color: white;
   font-weight: bold;
   text-transform: uppercase;
 }
 .movie-items .movie-item .title-in p {
   font-size: 12px;
-  color: black;
+  color: white;
 }
 .movie-items .movie-item .title-in p i {
   color: #f5b50a;
