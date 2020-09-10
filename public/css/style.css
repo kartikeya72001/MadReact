@@ -3727,7 +3727,7 @@ a {
   border-bottom: 1px solid dotted;
 }
 a:hover {
-  color: black;
+  color: white;
 }
 p {
   margin-bottom: 10px;
@@ -4124,13 +4124,13 @@ ul {
 .movie-items .movie-item .title-in h6 a {
   font-family: 'Dosis', sans-serif;
   font-size: 14px;
-  color: black;
+  color: white;
   font-weight: bold;
   text-transform: uppercase;
 }
 .movie-items .movie-item .title-in p {
   font-size: 12px;
-  color: black;
+  color: white;
 }
 .movie-items .movie-item .title-in p i {
   color: #f5b50a;
@@ -5780,7 +5780,7 @@ ul {
 .yellowbtn {
   font-family: 'Dosis', sans-serif;
   font-size: 14px;
-  color: black;
+  color: white;
   font-weight: bold;
   text-transform: uppercase;
   background-color: #dcf836;
@@ -7421,7 +7421,7 @@ p.ceb-single {
   background-color: #fff;
 }
 .buster-light .title-hd h2 {
-  color: black;
+  color: white;
 }
 .buster-light .title-hd a.viewall:hover {
   color: #dd003f;
@@ -7453,7 +7453,7 @@ p.ceb-single {
   background-color: #c8d9e1;
 }
 .buster-light .trailers .trailer-infor .desc {
-  color: black;
+  color: white;
 }
 .buster-light .trailers .trailer-infor p {
   color: #2F8071;
@@ -7476,11 +7476,11 @@ p.ceb-single {
   margin-left: 30px;
 }
 .buster-light .sidebar .sb-title {
-  color: black;
+  color: white;
   border-bottom-color: #d0dae4;
 }
 .buster-light .sidebar .celebrities .celeb-item .celeb-author h6 a {
-  color: black;
+  color: white;
 }
 .buster-light .sidebar .celebrities .celeb-item .celeb-author span {
   color: #2F8071;
@@ -7500,7 +7500,7 @@ p.ceb-single {
   border-radius: 2px;
 }
 .buster-light .sidebar .sb-cate ul li a {
-  color: black;
+  color: white;
 }
 .buster-light .sidebar .sb-cate ul li a:hover {
   color: #dd003f;
@@ -7539,7 +7539,7 @@ p.ceb-single {
   padding-left: 15px;
 }
 .buster-light .topbar-filter select {
-  color: black;
+  color: white;
   border-color: #d0dae4;
 }
 .buster-light .topbar-filter .list,
@@ -7562,10 +7562,10 @@ p.ceb-single {
   color: #dd003f;
 }
 .buster-light .movie-item-style-2 .mv-item-infor h6 a {
-  color: black;
+  color: white;
 }
 .buster-light .movie-item-style-2 .mv-item-infor .rate span {
-  color: black;
+  color: white;
 }
 .buster-light .movie-item-style-2 .mv-item-infor .describe {
   color: #2F8071;
@@ -7587,16 +7587,16 @@ p.ceb-single {
   color: #dd003f;
 }
 .buster-light .movie-single .movie-single-ct .mvcast-item .cast-it .series-it a {
-  color: black;
+  color: white;
 }
 .buster-light .movie-single .movie-single-ct .mvsingle-item .vd-infor h6 a {
-  color: black;
+  color: white;
 }
 .buster-light .movie-single .movie-single-ct .mvsingle-item .vd-item:hover h6 a {
   color: #dd003f;
 }
 .buster-light .movie-single .movie-single-ct .tab h3 {
-  color: black;
+  color: white;
 }
 .buster-light .movie-single .movie-single-ct .tab .rv-hd h3 {
   color: #9ca9b7;
@@ -7611,7 +7611,7 @@ p.ceb-single {
   color: #dd003f;
 }
 .buster-light .movie-single .sb-it h6 {
-  color: black;
+  color: white;
 }
 .buster-light .movie-single .sb-it p {
   color: #9ca9b7;
@@ -7621,7 +7621,7 @@ p.ceb-single {
   color: #dcf836;
 }
 .buster-light .tabs .movie-item-style-2 .mv-item-infor .describe {
-  color: black;
+  color: white;
 }
 .buster-light .tabs .movie-item-style-2 .mv-item-infor p:not(a) {
   color: #9ca9b7;
@@ -7630,7 +7630,7 @@ p.ceb-single {
   border-color: #d0dae4;
 }
 .buster-light .title-hd-sm h4 {
-  color: black;
+  color: white;
 }
 .buster-light .title-hd-sm a:hover {
   color: #dd003f;
@@ -7640,7 +7640,7 @@ p.ceb-single {
   border: none;
 }
 .buster-light .form-style-1 label {
-  color: black;
+  color: white;
 }
 .buster-light .form-style-1 input:not(.submit),
 .buster-light .form-style-1 select:not(.submit) {
@@ -7657,7 +7657,7 @@ p.ceb-single {
   border-color: #9ca9b7;
 }
 .buster-light .celebrity-items .ceb-item h2 a {
-  color: black;
+  color: white;
 }
 .buster-light .celebrity-items .ceb-item:hover h2 a {
   color: #dd003f;
@@ -7667,7 +7667,7 @@ p.ceb-single {
 }
 .buster-light .ceb-item-style-2 .ceb-infor h2 a,
 .buster-light .ceb-item-style-2 .ceb-infor p {
-  color: black;
+  color: white;
 }
 .buster-light .ceb-item-style-2 .ceb-infor span {
   color: #9ca9b7;
@@ -7679,7 +7679,7 @@ p.ceb-single {
   padding: 15px 20px;
 }
 .buster-light .cebleb-single p {
-  color: black;
+  color: white;
 }
 .buster-light .blog-item-style-3 {
   background-color: #e4eaf0;
@@ -7688,13 +7688,13 @@ p.ceb-single {
   color: #9ca9b7;
 }
 .buster-light .blog-item-style-3 .blog-it-infor p {
-  color: black;
+  color: white;
 }
 .buster-light .blog-item-style-3:hover h3 a {
   color: #dd003f;
 }
 .buster-light .blog-item-style-2 .blog-it-infor p {
-  color: black;
+  color: white;
 }
 .buster-light .pagination li a {
   color: #9ca9b7;
@@ -7714,7 +7714,7 @@ p.ceb-single {
 .buster-light .blog-detail-ct h4,
 .buster-light .blog-detail-ct h6 a,
 .buster-light .blog-detail-ct p {
-  color: black;
+  color: white;
 }
 .buster-light .blog-detail-ct .time {
   color: #9ca9b7;
@@ -7745,7 +7745,7 @@ p.ceb-single {
   border-color: #dd003f;
 }
 .buster-light .userfav_list .movie-item-style-2 .mv-item-infor .describe {
-  color: black;
+  color: white;
 }
 .buster-light .userfav_list .movie-item-style-2 .mv-item-infor p:not(a) {
   color: #9ca9b7;
@@ -7758,7 +7758,7 @@ p.ceb-single {
   border-color: #d0dae4;
 }
 .buster-light .user-information ul li a {
-  color: black;
+  color: white;
 }
 .buster-light .user-information ul li a:hover {
   color: #dd003f;
@@ -7771,17 +7771,17 @@ p.ceb-single {
 }
 .buster-light .userrate .mv-item-infor .sm-text {
   background-color: #e4eaf0;
-  color: black;
+  color: white;
   text-transform: capitalize;
 }
 .buster-light .userrate .mv-item-infor h6 {
-  color: black;
+  color: white;
 }
 .buster-light .userrate .mv-item-infor .sm {
   color: #4280bf;
 }
 .buster-light .userrate .mv-item-infor p {
-  color: black;
+  color: white;
 }
 .buster-light .user-pro .user {
   border-color: #d0dae4;
