@@ -4475,7 +4475,7 @@ ul {
 }
 .movie-items,
 .latestnew {
-  padding: 70px 0;
+  padding: 230px 0;
   background-color: #F0F8FF;
 }
 .movie-items .tab-links {
@@ -7046,8 +7046,8 @@ p.ceb-single {
   background-color: #00b9ef;
 }
 .slider {
-  /*background: url('../images/uploads/slider-bg.jpg') no-repeat;
-  background-posi*/tion: center;
+  /*background: url('../images/uploads/slider-bg.jpg') no-repeat;*/
+  background-position: center;
   text-align: center;
   background-size: cover;
   position: relative;
