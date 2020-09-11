@@ -18,8 +18,11 @@ class App extends Component {
     return (
 	<div>
 		<Navbar/>
-        <div>
-            <img src="/images/blackRed.jpg"/>
+        <div class="topPoster">
+            <img src="/images/blackRed.jpg" style={{maxWidth: "100%", height: "auto"}} />
+        </div>
+        <div class="topPoster2">
+            <img src="/images/blackRedTall.jpg" style={{maxWidth: "100%", height: "auto"}} />
         </div>
         <Trending/>
         <Trending/>
