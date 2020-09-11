@@ -4476,7 +4476,7 @@ ul {
 .movie-items,
 .latestnew {
   padding: 70px 0;
-  background-color: white;
+  background-color: #F0F8FF;
 }
 .movie-items .tab-links {
   position: relative;
@@ -4570,7 +4570,7 @@ ul {
   }
 }
 .topbar-filter option {
-  background-color: white;
+  background-color: #F0F8FF;
 }
 .topbar-filter .list,
 .topbar-filter .grid {
@@ -5797,7 +5797,7 @@ ul {
   border: 3px solid #56B7EB;
   margin-right: 30px;
   margin-top: -200px;
-  background-color: white;
+  background-color: #F0F8FF;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
@@ -5848,7 +5848,7 @@ ul {
   padding-left: 25px;
 }
 .page-single {
-  background-color: white;
+  background-color: #F0F8FF;
   padding: 75px 0;
 }
 .social-btn {
@@ -7184,7 +7184,7 @@ p.ceb-single {
   color: black;
 }
 .sliderv2 .movie-item .title-in .btn-transform:hover .hvrbtn {
-  background-color: white;
+  background-color: #F0F8FF;
   color: #dcf836;
 }
 .sliderv2 .movie-item .title-in .mv-details {
@@ -7311,7 +7311,7 @@ p.ceb-single {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: white;
+  background-color: #F0F8FF;
   /* change if the mask should have another color then white */
   z-index: 99999;
   text-align: center;
@@ -7703,11 +7703,11 @@ p.ceb-single {
 }
 .buster-light .pagination li a:hover {
   color: #dcf836;
-  background-color: white;
+  background-color: #F0F8FF;
 }
 .buster-light .pagination li.active a {
   color: #dcf836;
-  background-color: white;
+  background-color: #F0F8FF;
   border: none;
 }
 .buster-light .blog-detail-ct h1,
@@ -8029,7 +8029,7 @@ header#header-light .navbar-default .navbar-nav .dropdown.first.open a {
   color: black;
 }
 header#headerv3-light {
-  background-color: white;
+  background-color: #F0F8FF;
 }
 .sticky {
   background-color: #56B7EB;
@@ -8218,7 +8218,7 @@ footer .flex-parent-ft .flex-child-ft form input {
   color: black;
   font-weight: 300;
   text-transform: none;
-  background-color: white;
+  background-color: #F0F8FF;
   border-color: #405266;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -8235,7 +8235,7 @@ footer .ft-copyright {
   border-top: 1px solid #405266;
   padding-top: 20px;
   padding-bottom: 10px;
-  background-color: white;
+  background-color: #F0F8FF;
   -moz-opacity: 0.7;
   -khtml-opacity: 0.7;
   -webkit-opacity: 0.7;
