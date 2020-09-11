@@ -46,6 +46,48 @@ class Spotlight extends Component {
 								<span>Actor</span>
 							</div>
 						</div>
+                        <div class="celeb-item">
+							<a href="#"><img src="/images/uploads/ava4.jpg" alt="" width="70" height="70" /></a>
+							<div class="celeb-author">
+								<h6><a href="#">Justin Weaver</a></h6>
+								<span>Actor</span>
+							</div>
+						</div>
+                        <div class="celeb-item">
+							<a href="#"><img src="/images/uploads/ava4.jpg" alt="" width="70" height="70" /></a>
+							<div class="celeb-author">
+								<h6><a href="#">Justin Weaver</a></h6>
+								<span>Actor</span>
+							</div>
+						</div>
+                        <div class="celeb-item">
+							<a href="#"><img src="/images/uploads/ava4.jpg" alt="" width="70" height="70" /></a>
+							<div class="celeb-author">
+								<h6><a href="#">Justin Weaver</a></h6>
+								<span>Actor</span>
+							</div>
+						</div>
+                        <div class="celeb-item">
+							<a href="#"><img src="/images/uploads/ava4.jpg" alt="" width="70" height="70" /></a>
+							<div class="celeb-author">
+								<h6><a href="#">Justin Weaver</a></h6>
+								<span>Actor</span>
+							</div>
+						</div>
+                        <div class="celeb-item">
+							<a href="#"><img src="/images/uploads/ava4.jpg" alt="" width="70" height="70" /></a>
+							<div class="celeb-author">
+								<h6><a href="#">Justin Weaver</a></h6>
+								<span>Actor</span>
+							</div>
+						</div>
+                        <div class="celeb-item">
+							<a href="#"><img src="/images/uploads/ava4.jpg" alt="" width="70" height="70" /></a>
+							<div class="celeb-author">
+								<h6><a href="#">Justin Weaver</a></h6>
+								<span>Actor</span>
+							</div>
+						</div>
 						<a href="#" class="btn">See all celebrities<i class="ion-ios-arrow-right"></i></a>
 					</div>
 				</div>
