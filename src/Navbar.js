@@ -147,9 +147,9 @@ class Navbar extends Component{
 				</div>
 	    </nav>
     
-            <div class="top-search">
+            {/* <div class="top-search">
                 <input style={{borderRadius: "3px"}} type="text" placeholder="Search for a video or celebrity that you are looking for" />
-            </div>
+            </div> */}
         </div>
     </header>
     </div>
