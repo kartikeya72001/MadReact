@@ -7052,8 +7052,9 @@ p.ceb-single {
   background-size: cover;
   position: relative;
   padding-top:  30px;
-  top: 12rem;
-  padding-bottom: 50px;
+  top: 15rem;
+  padding-bottom: 5px;
+  margin-bottom: 20px;
   display: -webkit-flex;
   display: -moz-box;
   display: -ms-flexbox;
