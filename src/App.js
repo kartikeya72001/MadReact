@@ -29,7 +29,7 @@ class App extends Component {
 				<Dance/>
 				<Dance/>
 			</div>
-			<Spotlight/>
+			{/* <Spotlight/> */}
 		</div>
 	</div>
 </div>
