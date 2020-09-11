@@ -33,7 +33,7 @@ class Trending extends Component {
 	    		</div>
 				<div class="movie-item">
 	    			<div class="mv-img">
-	    				<a href="#"><img src="/images/uploads/_DSC5620.JPG" alt="" width="285" height="437" /></a>
+	    				<a href="#"><img src="/images/uploads/slider1 (1).jpg" alt="" width="285" height="437" /></a>
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
@@ -45,7 +45,7 @@ class Trending extends Component {
 	    		</div>
 	    		<div class="movie-item">
 	    			<div class="mv-img">
-	    				<a href="#"><img src="/images/uploads/_DSC5620.JPG" alt="" width="285" height="437" /></a>
+	    				<a href="#"><img src="/images/uploads/slider1 (2).jpg" alt="" width="285" height="437" /></a>
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
@@ -57,7 +57,7 @@ class Trending extends Component {
 	    		</div>
 	    		<div class="movie-item">
 	    			<div class="mv-img">
-	    				<a href="#"><img src="/images/uploads/_DSC5620.JPG" alt="" width="285" height="437" /></a>
+	    				<a href="#"><img src="/images/uploads/slider1 (3).jpg" alt="" width="285" height="437" /></a>
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
@@ -69,7 +69,7 @@ class Trending extends Component {
 	    		</div>
 	    		<div class="movie-item">
 	    			<div class="mv-img">
-	    				<a href="#"><img src="/images/uploads/_DSC5620.JPG" alt="" width="285" height="437" /></a>
+	    				<a href="#"><img src="/images/uploads/slider1 (2).jpg" alt="" width="285" height="437" /></a>
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
@@ -81,7 +81,7 @@ class Trending extends Component {
 	    		</div>
 				<div class="movie-item">
 	    			<div class="mv-img">
-	    				<a href="#"><img src="/images/uploads/_DSC5620.JPG" alt="" width="285" height="437" /></a>
+	    				<a href="#"><img src="/images/uploads/slider1 (1).jpg" alt="" width="285" height="437" /></a>
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
@@ -105,7 +105,7 @@ class Trending extends Component {
 	    		</div>
 	    		<div class="movie-item">
 	    			<div class="mv-img">
-	    				<img src="/images/uploads/_DSC5620.JPG" alt="" width="285" height="437" />
+	    				<img src="/images/uploads/slider1 (3).jpg" alt="" width="285" height="437" />
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
