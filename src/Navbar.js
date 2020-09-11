@@ -90,7 +90,7 @@ class Navbar extends Component{
     
     <header class="ht-header">
         <div class="container">
-        <nav class="navbar navbar-default navbar-custom">
+        <nav class="navbar navbar-default navbar-custom" style={{padding:"30px", borderRadius: "5px"}} >
 
 				<div class="navbar-header logo">
 				    <div class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -101,7 +101,7 @@ class Navbar extends Component{
 							<span></span>
 						</div>
 				    </div>
-				    <a href="index.html"><img class="logo" src="/images/logo1.png" alt="" width="119" height="58" /></a>
+				    <a href="index.html"><img class="logo" src="/images/MAD logo PNG Black 2.png" alt="" width="119" height="58" /></a>
 			    </div>
 
 				<div class="collapse navbar-collapse flex-parent" id="bs-example-navbar-collapse-1">

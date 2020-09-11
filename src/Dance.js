@@ -33,7 +33,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
 					            			</div> 
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Interstellar</a></h6>
@@ -47,7 +47,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item2.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">The revenant</a></h6>
@@ -61,7 +61,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item3.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Die hard</a></h6>
@@ -75,7 +75,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item4.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">The walk</a></h6>
@@ -89,7 +89,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item5.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Interstellar</a></h6>
@@ -103,7 +103,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item6.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">The revenant</a></h6>
@@ -117,7 +117,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item7.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Die hard</a></h6>
@@ -131,7 +131,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item8.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">The walk</a></h6>
@@ -145,7 +145,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item3.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Die hard</a></h6>
@@ -161,7 +161,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
 					            			</div> 
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Interstellar</a></h6>
@@ -175,7 +175,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item2.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">The revenant</a></h6>
@@ -189,7 +189,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item3.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Die hard</a></h6>
@@ -203,7 +203,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item4.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">The walk</a></h6>
@@ -217,7 +217,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item5.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Interstellar</a></h6>
@@ -231,7 +231,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item6.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">The revenant</a></h6>
@@ -245,7 +245,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item7.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Die hard</a></h6>
@@ -259,7 +259,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item8.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">The walk</a></h6>
@@ -273,7 +273,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item3.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Die hard</a></h6>
@@ -293,7 +293,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item5.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Interstellar</a></h6>
@@ -307,7 +307,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item6.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">The revenant</a></h6>
@@ -321,7 +321,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item7.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Die hard</a></h6>
@@ -335,7 +335,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item8.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">The walk</a></h6>
@@ -349,7 +349,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item3.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Die hard</a></h6>
@@ -369,7 +369,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Interstellar</a></h6>
@@ -383,7 +383,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item2.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">The revenant</a></h6>
@@ -397,7 +397,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item3.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Die hard</a></h6>
@@ -411,7 +411,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item4.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">The walk</a></h6>
@@ -425,7 +425,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item3.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Die hard</a></h6>
@@ -445,7 +445,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item5.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Interstellar</a></h6>
@@ -459,7 +459,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item6.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">The revenant</a></h6>
@@ -473,7 +473,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item7.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Die hard</a></h6>
@@ -487,7 +487,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item8.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">The walk</a></h6>
@@ -501,7 +501,7 @@ class Dance extends Component {
 					            				<img src="/images/uploads/mv-item3.jpg" alt="" width="185" height="284" />
 					            			</div>
 					            			<div class="hvr-inner">
-					            				<a  href="moviesingle.html"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+					            				<a  href="moviesingle.html"> View <i class="ion-android-arrow-dropright"></i> </a>
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Die hard</a></h6>

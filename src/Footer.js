@@ -16,6 +16,7 @@ class Footer extends Component {
 	<div class="container">
 		<div class="flex-parent-ft">
 			<div class="flex-child-ft item1">
+//            FOOTER LOGO
 				 <a href="index.html"><img class="logo" src="/images/logo1.png" alt="" /></a>
 				 <p>5th Avenue st, manhattan<br/ >
 				New York, NY 10001</p>
