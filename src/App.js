@@ -26,8 +26,6 @@ class App extends Component {
 		<div class="row ipad-width">
 			<div class="col-md-8">
 				<Dance/>
-				<Dance/>
-				<Dance/>
 			</div>
 			{/* <Spotlight/> */}
 		</div>

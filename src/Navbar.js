@@ -101,7 +101,7 @@ class Navbar extends Component{
 							<span></span>
 						</div>
 				    </div>
-				    <a href="index.html"><img class="logo" src="/images/MAD logo PNG Black 2.png" alt="" width="119" height="58" /></a>
+				    <a href="index.html"><img class="logo" src="/images/MAD logo PNG White 2.png" alt="" width="119" height="58" /></a>
 			    </div>
 
 				<div class="collapse navbar-collapse flex-parent" id="bs-example-navbar-collapse-1">
