@@ -203,6 +203,8 @@ class App extends Component {
 	</div>
 </header>
         <Trending/>
+        <Trending/>
+        <Trending/>
 <div class="movie-items">
 	<div class="container">
 		<div class="row ipad-width">
