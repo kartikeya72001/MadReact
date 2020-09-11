@@ -16,7 +16,7 @@ class Trending extends Component {
 	<div class="container">
 		<div class="row">
 			<div>
-				<h1>Trending</h1>
+				<h2 style={{textAlign:"left"}}>TRENDING</h2>
 			</div>
 	    	<div  class="slick-multiItemSlider">
 	    		<div class="movie-item">

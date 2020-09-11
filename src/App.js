@@ -204,7 +204,7 @@ class App extends Component {
 </header>
         <Trending/>
         <Trending/>
-        <Trending style={{paddingBottom: "100rem"}}/>
+        <Trending/>
 <div class="movie-items">
 	<div class="container">
 		<div class="row ipad-width">
