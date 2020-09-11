@@ -18,6 +18,9 @@ class App extends Component {
     return (
 	<div>
 		<Navbar/>
+        <div>
+            <img src="/images/blackRed.jpg"/>
+        </div>
         <Trending/>
         <Trending/>
         <Trending/>
