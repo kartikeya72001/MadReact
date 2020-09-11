@@ -11,7 +11,7 @@ class Trending extends Component {
 
   render(){
     return (
-      <h1>
+      <div>
         <div class="slider movie-items">
 	<div class="container">
 		<div class="row">
@@ -128,7 +128,7 @@ class Trending extends Component {
 	    </div>
 	</div>
 </div>
-      </h1>
+      </div>
     )
   }
 }
