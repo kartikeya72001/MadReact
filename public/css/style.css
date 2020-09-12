@@ -31,6 +31,9 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
+.views{
+  font-size:1.8rem !important;
+}
 .ion-heart{
     color: red !important;
 }
