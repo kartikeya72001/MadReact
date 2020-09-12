@@ -24,9 +24,10 @@ class App extends Component {
         <div class="topPoster2">
             <img src="/images/blackRedTall.webp" style={{maxWidth: "100%", height: "auto"}} />
         </div>
-        <Trending/>
-        <Trending/>
-        <Trending/>
+        <Trending title="Dance"/>
+        <Trending title="Music"/>
+        <Trending title="Acting"/>
+        <Trending title="Rapping"/>
 <div class="movie-items">
 	<div class="container">
 		<div class="row ipad-width">

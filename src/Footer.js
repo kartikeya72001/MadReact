@@ -61,7 +61,7 @@ class Footer extends Component {
 	</div>
 	<div class="ft-copyright">
 		<div class="ft-left">
-			<p>© 2017 Blockbuster. All Rights Reserved. Designed by leehari.</p>
+			<p>All Rights Reserved. Designed by Yehlo.</p>
 		</div>
 		<div class="backtotop">
 			<p><a href="#" id="back-to-top">Back to top  <i class="ion-ios-arrow-thin-up"></i></a></p>

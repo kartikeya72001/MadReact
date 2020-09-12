@@ -16,7 +16,7 @@ class Trending extends Component {
 	<div class="container">
 		<div class="row">
 			<div class="title-hd">
-				<h2 style={{textAlign:"left",position:"relative",left:"4rem"}}>TRENDING</h2>
+	<h2 style={{textAlign:"left",position:"relative",left:"4rem"}}>{this.props.title}</h2>
 			</div>
 	    	<div  class="slick-multiItemSlider">
 	    		<div class="movie-item">
