@@ -1,20 +1,12 @@
 import React, {Component} from 'react';
 
 class Dance extends Component {
-   
-  constructor(props){
-    super(props);
-    this.state =[
-      
-	]
-  }
-
   render(){
     return (
         <div>
         <div class="title-hd">
 					<h2>in theater</h2>
-					<a href="#" class="viewall">View all <i class="ion-ios-arrow-right"></i></a>
+					<span class="viewall">View all <i class="ion-ios-arrow-right"></i></span>
 				</div>
 				<div class="tabs">
 					<ul class="tab-links">
