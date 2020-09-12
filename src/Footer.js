@@ -16,7 +16,7 @@ class Footer extends Component {
 	<div class="container">
 		<div class="flex-parent-ft">
 			<div class="flex-child-ft item1">
-				 <a href="index.html"><img class="logo" src="/images/MAD logo PNG Black 2.png" alt="" style={{width:"20%",height: "auto"}} /></a>
+				 <a href="index.html"><img class="logo" src="/images/MAD logo PNG Black 2Small.png" alt="" style={{width:"20%",height: "auto"}} /></a>
 				 <p>5th Avenue st, manhattan<br/ >
 				New York, NY 10001</p>
 				<p>Call us: <a href="#">(+01) 202 342 6789</a></p>
