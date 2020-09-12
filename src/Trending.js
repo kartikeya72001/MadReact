@@ -25,7 +25,7 @@ class Trending extends Component {
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
-	    					<span class="blue"><a href="#">Sci-fi</a></span>
+	    					<span class="blue"><i class="ion-ios-eye" ></i></span>
 	    				</div>
 	    				<h6><a href="#">Interstellar</a></h6>
 	    				<p><i class="ion-heart"></i><span>16K</span></p>
@@ -37,7 +37,7 @@ class Trending extends Component {
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
-	    					<span class="yell"><a href="#">action</a></span>
+	    					<span class="yell"><i class="ion-ios-eye"></i></span>
 	    				</div>
 	    				<h6><a href="#">The revenant</a></h6>
 	    				<p><i class="ion-heart"></i><span>16K</span></p>
@@ -49,7 +49,7 @@ class Trending extends Component {
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
-	    					<span class="green"><a href="#">comedy</a></span>
+	    					<span class="green"><i class="ion-ios-eye"></i></span>
 	    				</div>
 	    				<h6><a href="#">Die hard</a></h6>
 	    				<p><i class="ion-heart"></i><span>16K</span></p>
@@ -61,7 +61,7 @@ class Trending extends Component {
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
-	    					<span class="blue"><a href="#">Sci-fi</a></span> <span class="orange"><a href="#">advanture</a></span>
+	    					<span class="blue"><i class="ion-ios-eye"></i></span> 
 	    				</div>
 	    				<h6><a href="#">The walk</a></h6>
 	    				<p><i class="ion-heart"></i><span>16K</span></p>
@@ -73,7 +73,7 @@ class Trending extends Component {
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
-	    					<span class="blue"><a href="#">Sci-fi</a></span>
+	    					<span class="blue"><i class="ion-ios-eye"></i></span>
 	    				</div>
 	    				<h6><a href="#">Interstellar</a></h6>
 	    				<p><i class="ion-heart"></i><span>16K</span></p>
@@ -85,7 +85,7 @@ class Trending extends Component {
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
-	    					<span class="yell"><a href="#">action</a></span>
+	    					<span class="yell"><i class="ion-ios-eye"></i></span>
 	    				</div>
 	    				<h6><a href="#">The revenant</a></h6>
 	    				<p><i class="ion-heart"></i><span>16K</span></p>
@@ -97,7 +97,7 @@ class Trending extends Component {
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
-	    					<span class="green"><a href="#">comedy</a></span>
+	    					<span class="green"><i class="ion-ios-eye"></i></span>
 	    				</div>
 	    				<h6><a href="#">Die hard</a></h6>
 	    				<p><i class="ion-heart"></i><span>16K</span></p>
@@ -109,7 +109,7 @@ class Trending extends Component {
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
-	    					<span class="blue"><a href="#">Sci-fi</a></span> <span class="orange"><a href="#">advanture</a></span>
+	    					<span class="blue"><i class="ion-ios-eye"></i></span> 
 	    				</div>
 	    				<h6><a href="#">The walk</a></h6>
 	    				<p><i class="ion-heart"></i><span>16K</span></p>
@@ -121,7 +121,7 @@ class Trending extends Component {
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
-	    					<span class="green"><a href="#">comedy</a></span>
+	    					<span class="green"><i class="ion-ios-eye"></i></span>
 	    				</div>
 	    				<h6><a href="#">Die hard</a></h6>
 	    				<p><i class="ion-heart"></i><span>16K</span></p>
