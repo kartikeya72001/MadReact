@@ -1,13 +1,14 @@
-import React, {Component} from 'react';
+import React, {Component, Suspense} from 'react';
+import { AuthContext } from '../contexts/contextType/authContexts';
+import { Button } from 'react-rainbow-components';
+const AuthModal = React.lazy(()=>import('../components/auth/ContainerModal'));
 
 class Navbar extends Component{
-    constructor(props){
-        super(props);
-
-        this.state = [
-
-        ]
+    state= {
+        authModal: null,
     }
+
+    static contextType = AuthContext;
     render(){
         return(
         <div>
@@ -141,8 +142,15 @@ class Navbar extends Component{
 						</li>
 					</ul>
 					<ul class="nav navbar-nav flex-child-menu menu-right">
-						<li class="loginLink"><a href="#">LOG In</a></li>
-						<li class="btn signupLink"><a href="#">sign up</a></li>
+                        {this.context.authStatus.isAuthenticated ? 
+                            <Button onClick={()=>this.context.logout()} variant='destructive'>Logout</Button> 
+                        :
+                            <>
+                            <Button onClick={()=>this.setState({authModal: 'login'})} variant='destructive'>Login</Button>
+                            <span style={{width:'20px', height:'20px'}} />
+                            <Button onClick={()=>this.setState({authModal: 'register'})} variant='destructive'>Sign Up</Button>
+                            </>
+                        }
 					</ul>
 				</div>
 	    </nav>
@@ -152,6 +160,9 @@ class Navbar extends Component{
             </div> */}
         </div>
     </header>
+    <Suspense fallback={<div>Loading...</div>}>
+        <AuthModal type={this.state.authModal} isOpen={Boolean(this.state.authModal)} handleClose={(bool)=>this.setState({authModal: null})} />
+    </Suspense>
     </div>
         )
     }
