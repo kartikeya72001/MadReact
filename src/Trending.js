@@ -28,7 +28,7 @@ class Trending extends Component {
 	    					<span class="blue"><a href="#">Sci-fi</a></span>
 	    				</div>
 	    				<h6><a href="#">Interstellar</a></h6>
-	    				<p><i class="ion-android-star"></i><span>7.4</span> /10</p>
+	    				<p><i class="ion-heart"></i><span>15</span> k</p>
 	    			</div>
 	    		</div>
 				<div class="movie-item">
@@ -40,7 +40,7 @@ class Trending extends Component {
 	    					<span class="yell"><a href="#">action</a></span>
 	    				</div>
 	    				<h6><a href="#">The revenant</a></h6>
-	    				<p><i class="ion-android-star"></i><span>7.4</span> /10</p>
+	    				<p><i class="ion-heart"></i><span>15</span> k</p>
 	    			</div>
 	    		</div>
 	    		<div class="movie-item">
@@ -52,7 +52,7 @@ class Trending extends Component {
 	    					<span class="green"><a href="#">comedy</a></span>
 	    				</div>
 	    				<h6><a href="#">Die hard</a></h6>
-	    				<p><i class="ion-android-star"></i><span>7.4</span> /10</p>
+	    				<p><i class="ion-heart"></i><span>15</span> k</p>
 	    			</div>
 	    		</div>
 	    		<div class="movie-item">
@@ -64,7 +64,7 @@ class Trending extends Component {
 	    					<span class="blue"><a href="#">Sci-fi</a></span> <span class="orange"><a href="#">advanture</a></span>
 	    				</div>
 	    				<h6><a href="#">The walk</a></h6>
-	    				<p><i class="ion-android-star"></i><span>7.4</span> /10</p>
+	    				<p><i class="ion-heart"></i><span>15</span> k</p>
 	    			</div>
 	    		</div>
 	    		<div class="movie-item">
@@ -76,7 +76,7 @@ class Trending extends Component {
 	    					<span class="blue"><a href="#">Sci-fi</a></span>
 	    				</div>
 	    				<h6><a href="#">Interstellar</a></h6>
-	    				<p><i class="ion-android-star"></i><span>7.4</span> /10</p>
+	    				<p><i class="ion-heart"></i><span>15</span> k</p>
 	    			</div>
 	    		</div>
 				<div class="movie-item">
@@ -88,7 +88,7 @@ class Trending extends Component {
 	    					<span class="yell"><a href="#">action</a></span>
 	    				</div>
 	    				<h6><a href="#">The revenant</a></h6>
-	    				<p><i class="ion-android-star"></i><span>7.4</span> /10</p>
+	    				<p><i class="ion-heart"></i><span>15</span> k</p>
 	    			</div>
 	    		</div>
 	    		<div class="movie-item">
@@ -100,7 +100,7 @@ class Trending extends Component {
 	    					<span class="green"><a href="#">comedy</a></span>
 	    				</div>
 	    				<h6><a href="#">Die hard</a></h6>
-	    				<p><i class="ion-android-star"></i><span>7.4</span> /10</p>
+	    				<p><i class="ion-heart"></i><span>15</span> k</p>
 	    			</div>
 	    		</div>
 	    		<div class="movie-item">
@@ -112,7 +112,7 @@ class Trending extends Component {
 	    					<span class="blue"><a href="#">Sci-fi</a></span> <span class="orange"><a href="#">advanture</a></span>
 	    				</div>
 	    				<h6><a href="#">The walk</a></h6>
-	    				<p><i class="ion-android-star"></i><span>7.4</span> /10</p>
+	    				<p><i class="ion-heart"></i><span>15</span> k</p>
 	    			</div>
 	    		</div>
 	    		<div class="movie-item">
@@ -124,7 +124,7 @@ class Trending extends Component {
 	    					<span class="green"><a href="#">comedy</a></span>
 	    				</div>
 	    				<h6><a href="#">Die hard</a></h6>
-	    				<p><i class="ion-android-star"></i><span>7.4</span> /10</p>
+	    				<p><i class="ion-heart"></i><span>15</span> k</p>
 	    			</div>
 	    		</div>
 	    	</div>
