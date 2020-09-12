@@ -37,7 +37,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Interstellar</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 				            		</div>
@@ -51,7 +51,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">The revenant</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 									</div>
@@ -65,7 +65,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Die hard</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 				            		</div>
@@ -79,7 +79,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">The walk</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 				            		</div>
@@ -93,7 +93,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Interstellar</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 				            		</div>
@@ -107,7 +107,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">The revenant</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 									</div>
@@ -121,7 +121,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Die hard</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 				            		</div>
@@ -135,7 +135,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">The walk</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 				            		</div>
@@ -149,7 +149,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Die hard</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 				            		</div>
@@ -165,7 +165,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Interstellar</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 				            		</div>
@@ -179,7 +179,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">The revenant</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 									</div>
@@ -193,7 +193,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Die hard</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 				            		</div>
@@ -207,7 +207,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">The walk</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 				            		</div>
@@ -221,7 +221,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Interstellar</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 				            		</div>
@@ -235,7 +235,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">The revenant</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 									</div>
@@ -249,7 +249,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Die hard</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 				            		</div>
@@ -263,7 +263,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">The walk</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 				            		</div>
@@ -277,7 +277,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Die hard</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 				            		</div>
@@ -297,7 +297,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Interstellar</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 				            		</div>
@@ -311,7 +311,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">The revenant</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 									</div>
@@ -325,7 +325,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Die hard</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 				            		</div>
@@ -339,7 +339,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">The walk</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 				            		</div>
@@ -353,7 +353,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Die hard</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 				            		</div>
@@ -373,7 +373,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Interstellar</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 				            		</div>
@@ -387,7 +387,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">The revenant</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 									</div>
@@ -401,7 +401,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Die hard</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 				            		</div>
@@ -415,7 +415,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">The walk</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 				            		</div>
@@ -429,7 +429,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Die hard</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 				            		</div>
@@ -449,7 +449,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Interstellar</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 				            		</div>
@@ -463,7 +463,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">The revenant</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 									</div>
@@ -477,7 +477,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Die hard</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 				            		</div>
@@ -491,7 +491,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">The walk</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 				            		</div>
@@ -505,7 +505,7 @@ class Dance extends Component {
 					            			</div>
 					            			<div class="title-in">
 					            				<h6><a href="#">Die hard</a></h6>
-					            				<p><i class="ion-heart"></i><span>7.4</span> k</p>
+					            				<p><i class="ion-heart"></i><span>7.4K</span> </p>
 					            			</div>
 					            		</div>
 				            		</div>
