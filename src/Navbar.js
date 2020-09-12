@@ -101,13 +101,13 @@ class Navbar extends Component{
 							<span></span>
 						</div>
 				    </div>
-				    <a href="index.html"><img class="logo" src="/images/MAD logo PNG White 2.png" alt="" width="119" height="58" /></a>
+				    <a href="/"><img class="logo" src="/images/MAD logo PNG White 2.png" alt="" width="119" height="58" /></a>
 			    </div>
 
 				<div class="collapse navbar-collapse flex-parent" id="bs-example-navbar-collapse-1">
 					<ul class="nav navbar-nav flex-child-menu menu-left">
 						<li class="hidden">
-							<a href="#page-top"></a>
+							<a href="#"></a>
 						</li>
 						<li class="dropdown first">
 							<a class="btn btn-default dropdown-toggle lv1" data-toggle="dropdown">
