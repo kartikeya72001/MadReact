@@ -24,7 +24,8 @@ class Trending extends Component {
 	    	<div  class="slick-multiItemSlider">
 	    		<div class="movie-item">
 	    			<div class="mv-img">
-	    				<a href="#"><img src="/images/uploads/slider1 (3).jpg" alt="" width="285" height="437" /></a>
+	    				<a href="#"><img src="/images/uploads/slider1 (3).jpg" width="285" height="437" /><i class="ion-ios-play play"></i></a>
+
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
@@ -36,7 +37,7 @@ class Trending extends Component {
 	    		</div>
 				<div class="movie-item">
 	    			<div class="mv-img">
-	    				<a href="#"><img src="/images/uploads/slider1 (1).jpg" alt="" width="285" height="437" /></a>
+	    				<a href="#"><img src="/images/uploads/slider1 (1).jpg" alt="" width="285" height="437" /><i class="ion-ios-play play"></i></a>
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
@@ -48,7 +49,7 @@ class Trending extends Component {
 	    		</div>
 	    		<div class="movie-item">
 	    			<div class="mv-img">
-	    				<a href="#"><img src="/images/uploads/slider1 (2).jpg" alt="" width="285" height="437" /></a>
+	    				<a href="#"><img src="/images/uploads/slider1 (2).jpg" alt="" width="285" height="437" /><i class="ion-ios-play play"></i></a>
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
@@ -60,7 +61,7 @@ class Trending extends Component {
 	    		</div>
 	    		<div class="movie-item">
 	    			<div class="mv-img">
-	    				<a href="#"><img src="/images/uploads/slider1 (3).jpg" alt="" width="285" height="437" /></a>
+	    				<a href="#"><img src="/images/uploads/slider1 (3).jpg" alt="" width="285" height="437" /><i class="ion-ios-play play"></i></a>
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
@@ -72,7 +73,7 @@ class Trending extends Component {
 	    		</div>
 	    		<div class="movie-item">
 	    			<div class="mv-img">
-	    				<a href="#"><img src="/images/uploads/slider1 (2).jpg" alt="" width="285" height="437" /></a>
+	    				<a href="#"><img src="/images/uploads/slider1 (2).jpg" alt="" width="285" height="437" /><i class="ion-ios-play play"></i></a>
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
@@ -84,7 +85,7 @@ class Trending extends Component {
 	    		</div>
 				<div class="movie-item">
 	    			<div class="mv-img">
-	    				<a href="#"><img src="/images/uploads/slider1 (1).jpg" alt="" width="285" height="437" /></a>
+	    				<a href="#"><img src="/images/uploads/slider1 (1).jpg" alt="" width="285" height="437" /><i class="ion-ios-play play"></i></a>
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
@@ -96,7 +97,7 @@ class Trending extends Component {
 	    		</div>
 	    		<div class="movie-item">
 	    			<div class="mv-img">
-	    				<img src="/images/uploads/slider1 (2).jpg" alt="" width="285" height="437" />
+	    				<img src="/images/uploads/slider1 (2).jpg" alt="" width="285" height="437" /><i class="ion-ios-play play"></i>
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
@@ -108,7 +109,7 @@ class Trending extends Component {
 	    		</div>
 	    		<div class="movie-item">
 	    			<div class="mv-img">
-	    				<img src="/images/uploads/slider1 (3).jpg" alt="" width="285" height="437" />
+	    				<img src="/images/uploads/slider1 (3).jpg" alt="" width="285" height="437" /><i class="ion-ios-play play"></i>
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">
@@ -120,7 +121,7 @@ class Trending extends Component {
 	    		</div>
 	    		<div class="movie-item">
 	    			<div class="mv-img">
-	    				<img src="/images/uploads/slider1 (1).jpg" alt="" width="285" height="437" />
+	    				<img src="/images/uploads/slider1 (1).jpg" alt="" width="285" height="437" /><i class="ion-ios-play play"></i>
 	    			</div>
 	    			<div class="title-in">
 	    				<div class="cate">

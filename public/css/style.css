@@ -31,6 +31,13 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
+.play{
+  color:black;
+  z-index:100;
+  position:absolute;
+  top:40%;
+  left:47%;
+}
 .vname{
   font-size: 4rem !important;
   color:white !important;
@@ -59,6 +66,9 @@
     color: red !important;
 }
 @media screen and (max-width: 768px){
+  header.ht-header{
+    background-color: black !important;
+  }
   div.topPoster{
     display:none
   }
@@ -67,6 +77,7 @@
     top: 11rem;
     display:block
   }
+
 }
 @media screen and (min-width: 769px){
   div.topPoster2{
