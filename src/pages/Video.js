@@ -21,8 +21,8 @@ class Video extends Component{
                                     <div class="slider-for-2 video-ft">
                                         <div>
                                             <iframe class="item-video" src="" data-src="https://www.youtube.com/embed/1Q8fG0TtVAY"></iframe>
-                                            <div>
-                                                <span class="vname">Video Name</span>
+                                            <div class="title-hd">
+                                                <h3 class="vname">Video Name</h3>
                                                 <div class="vidbtns">
                                                     <i class="ion-heart like"/>
                                                     <i class="ion-share share"/>

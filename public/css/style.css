@@ -32,6 +32,8 @@
  */
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 .vname{
+  font-size: 4rem !important;
+  color:white !important;
   float:left;
 }
 .vidbtns{
