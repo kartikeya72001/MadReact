@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import Navbar from '../components/Navbar';
 
 class Video extends Component{
     constructor(props){
@@ -7,7 +8,7 @@ class Video extends Component{
     render(){
         return(
             <div>
-                
+                <Navbar color="black" />
             </div>
         )
     }

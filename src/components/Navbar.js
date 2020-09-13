@@ -89,9 +89,9 @@ class Navbar extends Component{
             </div>
         </div>
     
-    <header class="ht-header">
+    <header class="ht-header" style={{backgroundColor:this.props.color}}>
         <div class="container">
-        <nav class="navbar navbar-default navbar-custom" style={{padding:"30px", borderRadius: "5px"}} >
+        <nav class="navbar navbar-default navbar-custom" style={{padding:"30px", borderRadius: "5px",backgroundColor:this.props.color}} >
 
 				<div class="navbar-header logo">
 				    <div class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">

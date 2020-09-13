@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import Trending from '../components/home/Trending';
 import Dance from '../components/home/Dance.js';
 import Spotlight from '../components/home/Spotlight.js';
+import Navbar from '../components/Navbar';
 
 class App extends Component {
    
@@ -15,6 +16,7 @@ class App extends Component {
   render(){
     return (
         <div>
+            <Navbar color="transparent" />
             <div class="topPoster">
                 <img src="/images/blackRed.webp" style={{maxWidth: "100%", height: "auto"}} />
             </div>

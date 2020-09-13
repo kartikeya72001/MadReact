@@ -4,7 +4,6 @@ import Home from './pages/home';
 import AuthContextProvider from './contexts/contextType/authContexts';
 import Dashboard from './pages/dashboard';
 import NoAuth from './pages/auth/noAuth';
-import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Video from './pages/Video.js';
 
@@ -12,7 +11,6 @@ function App(){
   return (  
     <AuthContextProvider>
       <BrowserRouter>
-        <Navbar />
         <Switch>
           <Route exact path='/' component={Home} />
           <Route exact path="/video" component = {Video} />
