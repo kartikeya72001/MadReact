@@ -25,8 +25,8 @@ class Dance extends Component {
 					<li><a href="#"> #Most reviewed</a></li>                        
 				</ul>
 				<Container>
-					<Row className="row">
-						<Col sm={3}>
+					<Row>
+						<Col sm={3} className="column">
 							<div class="movie-item">
 								<div class="mv-img">
 									<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
@@ -40,7 +40,7 @@ class Dance extends Component {
 								</div>
 							</div>
 						</Col>
-						<Col sm={3}>
+						<Col sm={3} className="column">
 							<div class="movie-item">
 								<div class="mv-img">
 									<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
@@ -54,7 +54,7 @@ class Dance extends Component {
 								</div>
 							</div>
 						</Col>
-						<Col sm={3}>
+						<Col sm={3} className="column">
 							<div class="movie-item">
 								<div class="mv-img">
 									<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
@@ -68,65 +68,7 @@ class Dance extends Component {
 								</div>
 							</div>
 						</Col>
-						<Col sm={3}>
-							<div class="movie-item">
-								<div class="mv-img">
-									<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
-								</div> 
-								<div class="hvr-inner">
-									<a  href="#"> View <i class="ion-android-arrow-dropright"></i> </a>
-								</div>
-								<div class="title-in">
-									<h6><a href="#">Interstellar</a></h6>
-									<p><i class="ion-heart"></i><span>7.4K</span> </p>
-								</div>
-							</div>
-						</Col>
-					</Row>
-					<Row className="row">
-						<Col sm={3}>
-							<div class="movie-item">
-								<div class="mv-img">
-									<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
-								</div> 
-								<div class="hvr-inner">
-									<a  href="#"> View <i class="ion-android-arrow-dropright"></i> </a>
-								</div>
-								<div class="title-in">
-									<h6><a href="#">Interstellar</a></h6>
-									<p><i class="ion-heart"></i><span>7.4K</span> </p>
-								</div>
-							</div>
-						</Col>
-						<Col sm={3}>
-							<div class="movie-item">
-								<div class="mv-img">
-									<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
-								</div> 
-								<div class="hvr-inner">
-									<a  href="#"> View <i class="ion-android-arrow-dropright"></i> </a>
-								</div>
-								<div class="title-in">
-									<h6><a href="#">Interstellar</a></h6>
-									<p><i class="ion-heart"></i><span>7.4K</span> </p>
-								</div>
-							</div>
-						</Col>
-						<Col sm={3}>
-							<div class="movie-item">
-								<div class="mv-img">
-									<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
-								</div> 
-								<div class="hvr-inner">
-									<a  href="#"> View <i class="ion-android-arrow-dropright"></i> </a>
-								</div>
-								<div class="title-in">
-									<h6><a href="#">Interstellar</a></h6>
-									<p><i class="ion-heart"></i><span>7.4K</span> </p>
-								</div>
-							</div>
-						</Col>
-						<Col sm={3}>
+						<Col sm={3} className="column">
 							<div class="movie-item">
 								<div class="mv-img">
 									<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
@@ -141,8 +83,8 @@ class Dance extends Component {
 							</div>
 						</Col>
 					</Row>
-					<Row className="row">
-						<Col sm={3}>
+					<Row>
+						<Col sm={3} className="column">
 							<div class="movie-item">
 								<div class="mv-img">
 									<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
@@ -156,7 +98,7 @@ class Dance extends Component {
 								</div>
 							</div>
 						</Col>
-						<Col sm={3}>
+						<Col sm={3} className="column">
 							<div class="movie-item">
 								<div class="mv-img">
 									<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
@@ -170,7 +112,7 @@ class Dance extends Component {
 								</div>
 							</div>
 						</Col>
-						<Col sm={3}>
+						<Col sm={3} className="column">
 							<div class="movie-item">
 								<div class="mv-img">
 									<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
@@ -184,65 +126,7 @@ class Dance extends Component {
 								</div>
 							</div>
 						</Col>
-						<Col sm={3}>
-							<div class="movie-item">
-								<div class="mv-img">
-									<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
-								</div> 
-								<div class="hvr-inner">
-									<a  href="#"> View <i class="ion-android-arrow-dropright"></i> </a>
-								</div>
-								<div class="title-in">
-									<h6><a href="#">Interstellar</a></h6>
-									<p><i class="ion-heart"></i><span>7.4K</span> </p>
-								</div>
-							</div>
-						</Col>
-					</Row>
-					<Row className="row">
-						<Col sm={3}>
-							<div class="movie-item">
-								<div class="mv-img">
-									<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
-								</div> 
-								<div class="hvr-inner">
-									<a  href="#"> View <i class="ion-android-arrow-dropright"></i> </a>
-								</div>
-								<div class="title-in">
-									<h6><a href="#">Interstellar</a></h6>
-									<p><i class="ion-heart"></i><span>7.4K</span> </p>
-								</div>
-							</div>
-						</Col>
-						<Col sm={3}>
-							<div class="movie-item">
-								<div class="mv-img">
-									<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
-								</div> 
-								<div class="hvr-inner">
-									<a  href="#"> View <i class="ion-android-arrow-dropright"></i> </a>
-								</div>
-								<div class="title-in">
-									<h6><a href="#">Interstellar</a></h6>
-									<p><i class="ion-heart"></i><span>7.4K</span> </p>
-								</div>
-							</div>
-						</Col>
-						<Col sm={3}>
-							<div class="movie-item">
-								<div class="mv-img">
-									<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
-								</div> 
-								<div class="hvr-inner">
-									<a  href="#"> View <i class="ion-android-arrow-dropright"></i> </a>
-								</div>
-								<div class="title-in">
-									<h6><a href="#">Interstellar</a></h6>
-									<p><i class="ion-heart"></i><span>7.4K</span> </p>
-								</div>
-							</div>
-						</Col>
-						<Col sm={3}>
+						<Col sm={3} className="column">
 							<div class="movie-item">
 								<div class="mv-img">
 									<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
@@ -257,8 +141,8 @@ class Dance extends Component {
 							</div>
 						</Col>
 					</Row>
-					<Row className="row">
-						<Col sm={3}>
+					<Row>
+						<Col sm={3} className="column">
 							<div class="movie-item">
 								<div class="mv-img">
 									<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
@@ -272,7 +156,7 @@ class Dance extends Component {
 								</div>
 							</div>
 						</Col>
-						<Col sm={3}>
+						<Col sm={3} className="column">
 							<div class="movie-item">
 								<div class="mv-img">
 									<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
@@ -286,7 +170,7 @@ class Dance extends Component {
 								</div>
 							</div>
 						</Col>
-						<Col sm={3}>
+						<Col sm={3} className="column">
 							<div class="movie-item">
 								<div class="mv-img">
 									<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
@@ -300,7 +184,123 @@ class Dance extends Component {
 								</div>
 							</div>
 						</Col>
-						<Col sm={3}>
+						<Col sm={3} className="column">
+							<div class="movie-item">
+								<div class="mv-img">
+									<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
+								</div> 
+								<div class="hvr-inner">
+									<a  href="#"> View <i class="ion-android-arrow-dropright"></i> </a>
+								</div>
+								<div class="title-in">
+									<h6><a href="#">Interstellar</a></h6>
+									<p><i class="ion-heart"></i><span>7.4K</span> </p>
+								</div>
+							</div>
+						</Col>
+					</Row>
+					<Row>
+						<Col sm={3} className="column">
+							<div class="movie-item">
+								<div class="mv-img">
+									<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
+								</div> 
+								<div class="hvr-inner">
+									<a  href="#"> View <i class="ion-android-arrow-dropright"></i> </a>
+								</div>
+								<div class="title-in">
+									<h6><a href="#">Interstellar</a></h6>
+									<p><i class="ion-heart"></i><span>7.4K</span> </p>
+								</div>
+							</div>
+						</Col>
+						<Col sm={3} className="column">
+							<div class="movie-item">
+								<div class="mv-img">
+									<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
+								</div> 
+								<div class="hvr-inner">
+									<a  href="#"> View <i class="ion-android-arrow-dropright"></i> </a>
+								</div>
+								<div class="title-in">
+									<h6><a href="#">Interstellar</a></h6>
+									<p><i class="ion-heart"></i><span>7.4K</span> </p>
+								</div>
+							</div>
+						</Col>
+						<Col sm={3} className="column">
+							<div class="movie-item">
+								<div class="mv-img">
+									<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
+								</div> 
+								<div class="hvr-inner">
+									<a  href="#"> View <i class="ion-android-arrow-dropright"></i> </a>
+								</div>
+								<div class="title-in">
+									<h6><a href="#">Interstellar</a></h6>
+									<p><i class="ion-heart"></i><span>7.4K</span> </p>
+								</div>
+							</div>
+						</Col>
+						<Col sm={3} className="column">
+							<div class="movie-item">
+								<div class="mv-img">
+									<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
+								</div> 
+								<div class="hvr-inner">
+									<a  href="#"> View <i class="ion-android-arrow-dropright"></i> </a>
+								</div>
+								<div class="title-in">
+									<h6><a href="#">Interstellar</a></h6>
+									<p><i class="ion-heart"></i><span>7.4K</span> </p>
+								</div>
+							</div>
+						</Col>
+					</Row>
+					<Row>
+						<Col sm={3} className="column">
+							<div class="movie-item">
+								<div class="mv-img">
+									<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
+								</div> 
+								<div class="hvr-inner">
+									<a  href="#"> View <i class="ion-android-arrow-dropright"></i> </a>
+								</div>
+								<div class="title-in">
+									<h6><a href="#">Interstellar</a></h6>
+									<p><i class="ion-heart"></i><span>7.4K</span> </p>
+								</div>
+							</div>
+						</Col>
+						<Col sm={3} className="column">
+							<div class="movie-item">
+								<div class="mv-img">
+									<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
+								</div> 
+								<div class="hvr-inner">
+									<a  href="#"> View <i class="ion-android-arrow-dropright"></i> </a>
+								</div>
+								<div class="title-in">
+									<h6><a href="#">Interstellar</a></h6>
+									<p><i class="ion-heart"></i><span>7.4K</span> </p>
+								</div>
+							</div>
+						</Col>
+						<Col sm={3} className="column">
+							<div class="movie-item">
+								<div class="mv-img">
+									<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />
+								</div> 
+								<div class="hvr-inner">
+									<a  href="#"> View <i class="ion-android-arrow-dropright"></i> </a>
+								</div>
+								<div class="title-in">
+									<h6><a href="#">Interstellar</a></h6>
+									<p><i class="ion-heart"></i><span>7.4K</span> </p>
+								</div>
+							</div>
+						</Col>
+						<Col sm={3} className="column">
 							<div class="movie-item">
 								<div class="mv-img">
 									<img src="/images/uploads/mv-item1.jpg" alt="" width="185" height="284" />

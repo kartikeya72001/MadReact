@@ -31,8 +31,9 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
-.row{
-  margin:6rem 0;
+.column{
+  margin-top:6rem;
+  margin-bottom:6rem;
 }
 .play{
   color:black;
