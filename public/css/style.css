@@ -4690,7 +4690,7 @@ ul {
 .title-hd h2 {
   font-family: 'Dosis', sans-serif;
   font-size: 24px;
-  color: black;
+  color: white;
   font-weight: bold;
   text-transform: uppercase;
 }
@@ -4702,7 +4702,7 @@ ul {
 .title-hd a.viewall {
   font-family: 'Dosis', sans-serif;
   font-size: 14px;
-  color: black;
+  color: white;
   font-weight: bold;
   text-transform: uppercase;
   margin-right: 10px;
@@ -4876,6 +4876,8 @@ ul {
   margin-left: -15px;
 }
 .trailers {
+    top: 10rem;
+    position: relative;
   background-color: #06121e;
   padding: 70px 0;
 }
@@ -4899,7 +4901,7 @@ ul {
 .trailers .trailer-infor .desc {
   font-family: 'Dosis', sans-serif;
   font-size: 14px;
-  color: black;
+  color: white;
   font-weight: bold;
   text-transform: none;
   margin-bottom: 0;
@@ -4907,7 +4909,7 @@ ul {
 .trailers .trailer-infor p {
   font-family: 'Dosis', sans-serif;
   font-size: 12px;
-  color: black;
+  color: white;
   font-weight: 300;
   text-transform: uppercase;
 }
