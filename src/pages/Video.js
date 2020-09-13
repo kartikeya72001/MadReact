@@ -21,38 +21,44 @@ class Video extends Component{
                                     <div class="slider-for-2 video-ft">
                                         <div>
                                             <iframe class="item-video" src="" data-src="https://www.youtube.com/embed/1Q8fG0TtVAY"></iframe>
-                                            <div>
+                                            <div class="vidbtns">
                                                 <i class="ion-heart like"/>
+                                                <i class="ion-share share"/>
                                             </div>
                                         </div>
                                         <div>
                                             <iframe class="item-video" src="" data-src="https://www.youtube.com/embed/w0qQkSuWOS8"></iframe>
-                                            <div>
+                                            <div class="vidbtns">
                                                 <i class="ion-heart like"/>
+                                                <i class="ion-share like"/>
                                             </div>
                                         </div>
                                         <div>
                                             <iframe class="item-video" src="" data-src="https://www.youtube.com/embed/44LdLqgOpjo"></iframe>
-                                            <div>
+                                            <div class="vidbtns">
                                                 <i class="ion-heart like"/>
+                                                <i class="ion-share share"/>
                                             </div>
                                         </div>
                                         <div>
                                             <iframe class="item-video" src="" data-src="https://www.youtube.com/embed/gbug3zTm3Ws"></iframe>
-                                            <div>
+                                            <div class="vidbtns">
                                                 <i class="ion-heart like"/>
+                                                <i class="ion-share share"/>
                                             </div>
                                         </div>
                                         <div>
                                             <iframe class="item-video" src="" data-src="https://www.youtube.com/embed/e3Nl_TCQXuw"></iframe>
-                                            <div>
+                                            <div class="vidbtns">
                                                 <i class="ion-heart like"/>
+                                                <i class="ion-share share"/>
                                             </div>
                                         </div>
                                         <div>
                                             <iframe class="item-video" src="" data-src="https://www.youtube.com/embed/NxhEZG0k9_w"></iframe>
-                                            <div>
+                                            <div class="vidbtns">
                                                 <i class="ion-heart like"/>
+                                                <i class="ion-share share"/>
                                             </div>
                                         </div>
 
