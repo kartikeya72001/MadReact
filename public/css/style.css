@@ -31,6 +31,9 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
+.row{
+  margin:6rem 0;
+}
 .play{
   color:black;
   z-index:100;
@@ -4539,7 +4542,7 @@ ul {
 }
 .movie-items,
 .latestnew {
-  padding: 230px 0;
+  padding: 230px 0 0 0;
   background-color: #F0F8FF;
 }
 .movie-items .tab-links {

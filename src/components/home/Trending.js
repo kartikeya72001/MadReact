@@ -16,7 +16,7 @@ class Trending extends Component {
 	<div class="container">
 		<div class="row">
 			<div class="title-hd">
-	<h2 style={{textAlign:"left",position:"relative",left:"3rem"}}>{this.props.title}</h2>
+	<h2 style={{textAlign:"left",position:"relative",left:"3rem",color:"black"}}>{this.props.title}</h2>
 			</div>
             <div>
             <h6 class="title-hd" style={{textAlign:"left",position:"relative",left:"3rem"}}>{this.props.text}</h6>
