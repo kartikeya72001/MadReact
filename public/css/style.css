@@ -8066,7 +8066,7 @@ header#headerv3-light {
   background-color: #F0F8FF;
 }
 .sticky {
-  background-color: black;;
+  background-color: black !important;
   position: fixed;
   width: 100%;
   z-index: 9999;
