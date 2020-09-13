@@ -14,28 +14,46 @@ class Video extends Component{
                         <div class="row ipad-width">
                             <div class="col-md-12">
                                 <div class="title-hd">
-                                    <h2>in theater</h2>
+                                    <h2>Video Name</h2>
                                     <a href="#" class="viewall">View all <i class="ion-ios-arrow-right"></i></a>
                                 </div>
                                 <div class="videos">
                                     <div class="slider-for-2 video-ft">
                                         <div>
                                             <iframe class="item-video" src="" data-src="https://www.youtube.com/embed/1Q8fG0TtVAY"></iframe>
+                                            <div>
+                                                <i class="ion-heart like"/>
+                                            </div>
                                         </div>
                                         <div>
                                             <iframe class="item-video" src="" data-src="https://www.youtube.com/embed/w0qQkSuWOS8"></iframe>
+                                            <div>
+                                                <i class="ion-heart like"/>
+                                            </div>
                                         </div>
                                         <div>
                                             <iframe class="item-video" src="" data-src="https://www.youtube.com/embed/44LdLqgOpjo"></iframe>
+                                            <div>
+                                                <i class="ion-heart like"/>
+                                            </div>
                                         </div>
                                         <div>
                                             <iframe class="item-video" src="" data-src="https://www.youtube.com/embed/gbug3zTm3Ws"></iframe>
+                                            <div>
+                                                <i class="ion-heart like"/>
+                                            </div>
                                         </div>
                                         <div>
                                             <iframe class="item-video" src="" data-src="https://www.youtube.com/embed/e3Nl_TCQXuw"></iframe>
+                                            <div>
+                                                <i class="ion-heart like"/>
+                                            </div>
                                         </div>
                                         <div>
                                             <iframe class="item-video" src="" data-src="https://www.youtube.com/embed/NxhEZG0k9_w"></iframe>
+                                            <div>
+                                                <i class="ion-heart like"/>
+                                            </div>
                                         </div>
 
 

@@ -31,6 +31,13 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
+.like{
+    font-size: 3.5rem;
+}
+.like:hover{
+    transition: 0.3s;
+    font-size: 5rem;
+}
 .views{
   font-size:1.8rem !important;
 }
