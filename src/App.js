@@ -6,6 +6,7 @@ import Dashboard from './pages/dashboard';
 import NoAuth from './pages/auth/noAuth';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
+import Video from './pages/Video.js';
 
 function App(){
   return (  
@@ -14,6 +15,7 @@ function App(){
         <Navbar />
         <Switch>
           <Route exact path='/' component={Home} />
+          <Route exact path="/video" component = {Video} />
           <Route exact path='/dashboard' component={Dashboard} />
           <Route exact path='/auth/noAuth' component={NoAuth} />
           <Redirect to='/' />
