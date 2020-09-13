@@ -31,15 +31,19 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
+.vname{
+  float:left;
+}
 .vidbtns{
     text-align: right;
+    float: right;
 }
 .like{
     font-size: 3.5rem;
 }
 .like:hover{
     transition: 0.3s;
-    font-size: 5rem;
+    font-size: 4rem;
 }
 .share{
     padding-left: 1rem;

@@ -21,16 +21,19 @@ class Video extends Component{
                                     <div class="slider-for-2 video-ft">
                                         <div>
                                             <iframe class="item-video" src="" data-src="https://www.youtube.com/embed/1Q8fG0TtVAY"></iframe>
-                                            <div class="vidbtns">
-                                                <i class="ion-heart like"/>
-                                                <i class="ion-share share"/>
+                                            <div>
+                                                <span class="vname">Video Name</span>
+                                                <div class="vidbtns">
+                                                    <i class="ion-heart like"/>
+                                                    <i class="ion-share share"/>
+                                                </div>
                                             </div>
                                         </div>
                                         <div>
                                             <iframe class="item-video" src="" data-src="https://www.youtube.com/embed/w0qQkSuWOS8"></iframe>
                                             <div class="vidbtns">
                                                 <i class="ion-heart like"/>
-                                                <i class="ion-share like"/>
+                                                <i class="ion-share share"/>
                                             </div>
                                         </div>
                                         <div>
