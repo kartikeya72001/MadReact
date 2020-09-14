@@ -20,10 +20,13 @@ class Video extends Component{
                             </video>
                             <div>
                                 <span>
-                                    Video name
+                                    <h2 style={{marginTop: "3rem", float: "left"}}>
+                                    VIDEO NAME
+                                    </h2>
                                 </span>
                                 <div>
-                                    <i class="ion-thumbs-up" style={{color:"black"}}></i>
+                                    <i class="ion-thumbsup interactbtns"></i>
+                                    <i class="ion-thumbsdown interactbtns"></i>
                                 </div>
 
                             </div>
