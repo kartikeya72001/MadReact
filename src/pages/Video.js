@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import Navbar from '../components/Navbar';
+import {Container,Col,Row} from 'react-bootstrap';
 
 class Video extends Component{
     constructor(props){
@@ -9,127 +10,29 @@ class Video extends Component{
         return(
             <div>
                 <Navbar color="black" />
-                <div class="trailers">
-                    <div class="container">
-                        <div class="row ipad-width">
-                            <div class="col-md-12">
-                                <div class="title-hd">
-                                    <h2>Video Name</h2>
-                                    <a href="#" class="viewall">View all <i class="ion-ios-arrow-right"></i></a>
-                                </div>
-                                <div class="videos">
-                                    <div class="slider-for-2 video-ft">
-                                        <div>
-                                            <iframe class="item-video" src="" data-src="https://www.youtube.com/embed/1Q8fG0TtVAY"></iframe>
-                                            <div class="title-hd">
-                                                <h3 class="vname">Video Name</h3>
-                                                <div class="vidbtns">
-                                                    <i class="ion-heart like"/>
-                                                    <i class="ion-share share"/>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div>
-                                            <iframe class="item-video" src="" data-src="https://www.youtube.com/embed/w0qQkSuWOS8"></iframe>
-                                            <div class="vidbtns">
-                                                <i class="ion-heart like"/>
-                                                <i class="ion-share share"/>
-                                            </div>
-                                        </div>
-                                        <div>
-                                            <iframe class="item-video" src="" data-src="https://www.youtube.com/embed/44LdLqgOpjo"></iframe>
-                                            <div class="vidbtns">
-                                                <i class="ion-heart like"/>
-                                                <i class="ion-share share"/>
-                                            </div>
-                                        </div>
-                                        <div>
-                                            <iframe class="item-video" src="" data-src="https://www.youtube.com/embed/gbug3zTm3Ws"></iframe>
-                                            <div class="vidbtns">
-                                                <i class="ion-heart like"/>
-                                                <i class="ion-share share"/>
-                                            </div>
-                                        </div>
-                                        <div>
-                                            <iframe class="item-video" src="" data-src="https://www.youtube.com/embed/e3Nl_TCQXuw"></iframe>
-                                            <div class="vidbtns">
-                                                <i class="ion-heart like"/>
-                                                <i class="ion-share share"/>
-                                            </div>
-                                        </div>
-                                        <div>
-                                            <iframe class="item-video" src="" data-src="https://www.youtube.com/embed/NxhEZG0k9_w"></iframe>
-                                            <div class="vidbtns">
-                                                <i class="ion-heart like"/>
-                                                <i class="ion-share share"/>
-                                            </div>
-                                        </div>
+                <Container className="videocontainer">
+                    <Row>
+                        <Col sm={9}>
+                            <video controls>
+                                <source src="/images/temp.mp4" type="video/mp4" />
 
+                                Your browser does not support the video.
+                            </video>
+                        </Col>
+                        <Col sm={3}>
+                        <video>
+                                <source src="/images/temp.mp4" type="video/mp4" />
 
-                                    </div>
-                                    <div class="slider-nav-2 thumb-ft">
-                                        <div class="item">
-                                            <div class="trailer-img">
-                                                <img src="images/uploads/trailer7.jpg"  alt="photo by Barn Images" width="4096" height="2737" />
-                                            </div>
-                                            <div class="trailer-infor">
-                                                <h4 class="desc">Wonder Woman</h4>
-                                                <p>2:30</p>
-                                            </div>
-                                        </div>
-                                        <div class="item">
-                                            <div class="trailer-img">
-                                                <img src="images/uploads/trailer2.jpg"  alt="photo by Barn Images" width="350" height="200" />
-                                            </div>
-                                            <div class="trailer-infor">
-                                                <h4 class="desc">Oblivion: Official Teaser Trailer</h4>
-                                                <p>2:37</p>
-                                            </div>
-                                        </div>
-                                        <div class="item">
-                                            <div class="trailer-img">
-                                                <img src="images/uploads/trailer6.jpg" alt="photo by Joshua Earle" />
-                                            </div>
-                                            <div class="trailer-infor">
-                                                <h4 class="desc">Exclusive Interview:  Skull Island</h4>
-                                                <p>2:44</p>
-                                            </div>
-                                        </div>
-                                        <div class="item">
-                                            <div class="trailer-img">
-                                                <img src="images/uploads/trailer3.png" alt="photo by Alexander Dimitrov" width="100" height="56" />
-                                            </div>
-                                            <div class="trailer-infor">
-                                                <h4 class="desc">Logan: Director James Mangold Interview</h4>	
-                                                <p>2:43</p>
-                                            </div>
-                                        </div>
-                                        <div class="item">
-                                            <div class="trailer-img">
-                                                <img src="images/uploads/trailer4.png"  alt="photo by Wojciech Szaturski" width="100" height="56" />
-                                            </div>
-                                            <div class="trailer-infor">
-                                                <h4 class="desc">Beauty and the Beast: Official Teaser Trailer 2</h4>	
-                                                <p>2: 32</p>
-                                            </div>	
-                                        </div>
-                                        <div class="item">
-                                            <div class="trailer-img">
-                                                <img src="images/uploads/trailer5.jpg"  alt="photo by Wojciech Szaturski" width="360" height="189" />
-                                            </div>
-                                            <div class="trailer-infor">
-                                                <h4 class="desc">Fast&Furious 8</h4>	
-                                                <p>3:11</p>
-                                            </div>	
-                                        </div>
+                                Your browser does not support the video.
+                            </video>
+                            <video>
+                                <source src="/images/temp.mp4" type="video/mp4" />
 
-                                    </div>
-                                </div>   
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            /*Comment Section*/
+                                Your browser does not support the video.
+                            </video>
+                        </Col>
+                    </Row>
+                </Container>
                     <div class="container">
                         <div class="row">
                             <div class="col-md-8 commentSection">

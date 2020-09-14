@@ -36,6 +36,11 @@ body{margin-top:20px;}
 /*==================================================
   Post Contents CSS
   ==================================================*/
+.videocontainer{
+  position:relative;
+  top:20rem;
+  margin-bottom: 15rem;
+}
 .commentSection{
     position:relative;
     top:10rem
