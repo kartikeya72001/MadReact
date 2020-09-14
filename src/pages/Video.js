@@ -25,9 +25,9 @@ class Video extends Component{
                                     </h2>
                                 </span>
                                 <div>
-                                    <i class="ion-thumbsup interactbtns">15,412</i>
-                                    <i class="ion-thumbsdown interactbtns">324</i>
-                                    <i class="ion-android-share interactbtns">Share</i>
+                                    <i class="fa fa-share interactbtns">Share</i>
+                                    <i class="fa fa-thumbs-down interactbtns">324</i>
+                                    <i class="fa fa-thumbs-up interactbtns">15,412</i>
                                 </div>
 
                             </div>

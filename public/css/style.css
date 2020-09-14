@@ -143,7 +143,7 @@ img.profile-photo-sm {
 .interactbtns{
     margin-top: 2rem;
     color:black;
-    font-size: 3.2rem; 
+    font-size: 3.2rem !important; 
     color: blue;
     float:right;
     margin-right:1rem;
