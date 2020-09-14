@@ -31,6 +31,14 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
+.like{
+  font-size: 3.5rem;
+}
+.like:hover{
+  transition: 0.3s;
+  font-size: 4rem;
+}
+
 body{margin-top:20px;}
 .Sidebar{
     margin-bottom: 1rem;
@@ -140,13 +148,32 @@ img.profile-photo-sm {
   top:40%;
   left:47%;
 }
-.interactbtns{
-    margin-top: 2rem;
-    color:black;
-    font-size: 3.2rem !important; 
-    color: blue;
-    float:right;
-    margin-right:1rem;
+.vname{
+  font-size: 4rem !important;
+  color:white !important;
+  float:left;
+}
+.vidbtns{
+    text-align: right;
+    float: right;
+}
+.like{
+    font-size: 3.5rem;
+}
+.like:hover{
+    transition: 0.3s;
+    font-size: 4rem;
+}
+.share{
+    padding-left: 1rem;
+    font-size: 4rem;
+    color:blue;
+}
+.views{
+  font-size:1.8rem !important;
+}
+.ion-heart{
+    color: red !important;
 }
 @media screen and (max-width: 768px){
   header.ht-header{
