@@ -20,12 +20,52 @@ class Video extends Component{
                             </video>
                         </Col>
                         <Col sm={3}>
-                        <video>
+                        <video className="Sidebar">
+                                <source src="/images/temp.mp4" type="video/mp4" />
+
+                                Your browser does not support the video.
+                            </video>
+                            <video className="Sidebar">
+                                <source src="/images/temp.mp4" type="video/mp4" />
+
+                                Your browser does not support the video.
+                            </video>
+                            <video className="Sidebar">
+                                <source src="/images/temp.mp4" type="video/mp4" />
+
+                                Your browser does not support the video.
+                            </video>
+                            <video className="Sidebar">
+                                <source src="/images/temp.mp4" type="video/mp4" />
+
+                                Your browser does not support the video.
+                            </video>
+                            <video className="Sidebar">
                                 <source src="/images/temp.mp4" type="video/mp4" />
 
                                 Your browser does not support the video.
                             </video>
                             <video>
+                                <source src="/images/temp.mp4" type="video/mp4" />
+
+                                Your browser does not support the video.
+                            </video>
+                            <video className="Sidebar">
+                                <source src="/images/temp.mp4" type="video/mp4" />
+
+                                Your browser does not support the video.
+                            </video>
+                            <video className="Sidebar">
+                                <source src="/images/temp.mp4" type="video/mp4" />
+
+                                Your browser does not support the video.
+                            </video>
+                            <video className="Sidebar">
+                                <source src="/images/temp.mp4" type="video/mp4" />
+
+                                Your browser does not support the video.
+                            </video>
+                            <video className="Sidebar">
                                 <source src="/images/temp.mp4" type="video/mp4" />
 
                                 Your browser does not support the video.
