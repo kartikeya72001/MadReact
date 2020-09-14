@@ -132,13 +132,13 @@ class Video extends Component{
             /*Comment Section*/
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-8">
+                            <div class="col-md-8 commentSection">
                                 <div class="post-content">
                                   <div class="post-container">
                                     <img src="https://bootdey.com/img/Content/avatar/avatar6.png" alt="user" class="profile-photo-md pull-left"/>
                                     <div class="post-detail">
                                       <div class="user-info">
-                                        <h5><a href="timeline.html" class="profile-link">Alexis Clark</a> <span class="following">following</span></h5>
+                                        <h5><a href="#" class="profile-link">Alexis Clark</a> <span class="following">following</span></h5>
                                         <p class="text-muted">Published a photo about 3 mins ago</p>
                                       </div>
                                       <div class="reaction">
@@ -152,14 +152,14 @@ class Video extends Component{
                                       <div class="line-divider"></div>
                                       <div class="post-comment">
                                         <img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="" class="profile-photo-sm"/>
-                                        <p><a href="timeline.html" class="profile-link">Diana </a><i class="em em-laughing"></i> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud </p>
+                                        <p><a href="#" class="profile-link">Diana </a><i class="em em-laughing"></i> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud </p>
                                       </div>
                                       <div class="post-comment">
                                         <img src="https://bootdey.com/img/Content/avatar/avatar1.png" alt="" class="profile-photo-sm"/>
-                                        <p><a href="timeline.html" class="profile-link">John</a> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud </p>
+                                        <p><a href="#" class="profile-link">John</a> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud </p>
                                       </div>
                                       <div class="post-comment">
-                                        <img src="images/users/user-1.jpg" alt="" class="profile-photo-sm"/>
+                                        <img src="/images/Icons.png" alt="" class="profile-photo-sm"/>
                                         <input type="text" class="form-control" placeholder="Post a comment"/>
                                       </div>
                                     </div>
