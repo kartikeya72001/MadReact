@@ -43,8 +43,8 @@ const Register = () => {
                 <Link href='/auth/signup'><a href=''>Sign Up</a></Link>
             </Typography> */}
 
-                    {authContext.authStatus.registerError && <Alert severity='error'>Sign Up failed! Please try again.</Alert>}
-                    {authContext.authStatus.registerSuccess && <Alert severity='success'>User has been registered. Head towards login page.</Alert>}
+            {authContext.authStatus.registerError && <Alert severity='error'>Sign Up failed! Please try again.</Alert>}
+            {authContext.authStatus.registerSuccess && <Alert severity='success'>User has been registered. Head towards login page.</Alert>}
         </div>
     );
 }

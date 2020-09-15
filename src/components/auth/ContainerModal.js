@@ -5,11 +5,9 @@ import Register from './Register';
 
 const AuthModal = ({ type, isOpen, handleClose }) => {
     return (  
-        <div style={{maxWidth:'100vw'}}>
-            <Modal isOpen={isOpen} onRequestClose={()=>handleClose(null)}>
-                {type === 'login' ? <Login handleClose={handleClose} /> : <Register />}
-            </Modal>
-        </div>
+        <Modal style={{background:'linear-gradient(to bottom, #0e1111, #1F060A)', color:'white'}} isOpen={isOpen} onRequestClose={()=>handleClose(null)}>
+            {type === 'login' ? <Login handleClose={handleClose} /> : <Register />}
+        </Modal>
     );
 };
  

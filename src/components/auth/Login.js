@@ -3,6 +3,7 @@ import { Input, Button } from 'react-rainbow-components';
 import styles from '../../styles/login.module.css';
 import { AuthContext } from '../../contexts/contextType/authContexts';
 import { useHistory } from 'react-router-dom';
+import { Alert } from '@material-ui/lab';
 // import 'bootstrap/dist/css/bootstrap.min.css';
 
 const Login = ({ handleClose }) => {
@@ -27,11 +28,14 @@ const Login = ({ handleClose }) => {
 
     return (  
         <div className={styles.container}>
-            
-            <h2 className='mb-4'>Sign in</h2>
+                
+            <h2 style={{textAlign:'center', marginBottom:'1em'}}>Sign in</h2>
 
-            <Input className={styles.inputFields} value={identifier} onChange={(e)=>handleChange(e)} label='Email' placeholder='Enter Username or Email' name='identifier' />
-            <Input className={styles.inputFields} type='password' value={password} onChange={(e)=>handleChange(e)} label='Password' placeholder='Password' name='password' />
+            <h3>Email:</h3>
+            <Input className={styles.inputFields} value={identifier} onChange={(e)=>handleChange(e)} placeholder='Enter Username or Email' name='identifier' />
+            
+            <h3>Password:</h3>
+            <Input className={styles.inputFields} type='password' value={password} onChange={(e)=>handleChange(e)} placeholder='Password' name='password' />
 
             <Button className={styles.loginButton}
                 onClick={async ()=>{
@@ -47,8 +51,11 @@ const Login = ({ handleClose }) => {
                 label='Sign In'
                 shaded
             />
-            
-            <br /><br />
+
+            <br />
+
+            {authContext.authStatus.loginError && <Alert severity='error'>Sign Up failed! Please try again.</Alert>}
+            {authContext.authStatus.loginSuccess && <Alert severity='success'>User has been registered. Head towards login page.</Alert>}
             {/* <Typography variant='body2' component='h1'>
                 Don't have an account? 
                 <Link href='/auth/signup'><a href=''>Sign Up</a></Link>

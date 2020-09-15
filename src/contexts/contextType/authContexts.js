@@ -43,7 +43,7 @@ const AuthContextProvider = (props) => {
     const [authStatus, setAuthStatus] = useState(initState);
 
     const register = async (creds) => {
-        setAuthStatus({...authStatus, isVerifying: true});
+        setAuthStatus({...authStatus, isVerifying: true, registerError: false});
         const { data, status } = await registerUser(creds);
     
         if(status === 200){
@@ -59,7 +59,7 @@ const AuthContextProvider = (props) => {
 
     const login = async (creds) => {
         
-        setAuthStatus({...authStatus, isLoggingIn: true});
+        setAuthStatus({...authStatus, isLoggingIn: true, loginError: false});
         const { data, status } = await loginUser(creds);
 
         if(status === 200){
