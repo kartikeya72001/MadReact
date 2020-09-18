@@ -51,7 +51,7 @@ class Contact extends Component{
                         <div class="contact100-more flex-col-c-m info" style={{backgroundImage: "url('/images/contactusbg.jpg')"}}>
                             <div class="flex-w size1 p-b-47">
                                 <div class="txt1 p-r-25">
-                                    <span class="lnr lnr-map-marker"></span>
+                                    <i class="fa fa-map-marker"></i>
                                 </div>
                                 <div class="flex-col size2">
                                     <span class="txt1 p-b-20">
@@ -64,7 +64,7 @@ class Contact extends Component{
                             </div>
                             <div class="dis-flex size1 p-b-47">
                                 <div class="txt1 p-r-25">
-                                    <span class="lnr lnr-phone-handset"></span>
+                                    <i class="fa fa-phone"></i>
                                 </div>
                                 <div class="flex-col size2">
                                     <span class="txt1 p-b-20">
@@ -77,7 +77,7 @@ class Contact extends Component{
                             </div>
                             <div class="dis-flex size1 p-b-47">
                                 <div class="txt1 p-r-25">
-                                    <span class="lnr lnr-envelope"></span>
+                                    <i class="fa fa-envelope-o"></i>
                                 </div>
                                 <div class="flex-col size2">
                                     <span class="txt1 p-b-20">
