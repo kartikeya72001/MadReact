@@ -12,7 +12,7 @@ body, html {
 /*---------------------------------------------*/
 a {
 	font-family: Poppins-Regular;
-	font-size: 14px;
+	font-size: 1.8rem;
 	line-height: 1.7;
 	color: #666666;
 	margin: 0px;
@@ -104,25 +104,31 @@ iframe {
 
 /*==================================================================
 [ Text ]*/
+
+.p-b-20 {
+  padding-bottom: 20px;
+}
 .txt1 {
   font-family: Poppins-Regular;
-  font-size: 18px;
+  font-size: 3rem;
   line-height: 1.2;
   color: #fff;
 }
 
 .txt2 {
   font-family: Poppins-Regular;
-  font-size: 15px;
+  font-size: 1.8rem;
   line-height: 1.6;
   color: #999999;
+  padding-bottom: 4rem;
 }
 
 .txt3 {
   font-family: Poppins-Regular;
-  font-size: 15px;
+  font-size: 1.8rem;
   line-height: 1.6;
   color: #00ad5f;
+  padding-bottom: 4rem;
 }
 
 /*==================================================================
@@ -134,11 +140,20 @@ iframe {
 
 .size2 {
   width: calc(100% - 43px);
+  display: flex;
+  flex-direction: column;
 }
 
 
 /*//////////////////////////////////////////////////////////////////
 [ Contact ]*/
+
+.info{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
 
 .container-contact100 {
   width: 100%;
