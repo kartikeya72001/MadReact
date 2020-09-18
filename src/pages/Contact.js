@@ -84,7 +84,7 @@ class Contact extends Component{
                                         General Support
                                     </span>
                                     <span class="txt3">
-                                        <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="0a6965647e6b697e4a6f726b677a666f24696567">[email&#160;protected]</a>
+                                        <a href="#" class="__cf_email__" data-cfemail="0a6965647e6b697e4a6f726b677a666f24696567">[email&#160;protected]</a>
                                     </span>
                                 </div>
                             </div>

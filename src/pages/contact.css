@@ -140,12 +140,14 @@ iframe {
 }
 
 .p-r-25{
+  position:relative;
   float:left;
+  left:-4rem;
 }
 
 .size2 {
   width: calc(100% - 43px);
-  foat:left;
+  float:left;
   display: flex;
   flex-direction: column;
 }
