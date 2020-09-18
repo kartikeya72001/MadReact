@@ -16,8 +16,8 @@ function App(){
         <Switch>
           <Route exact path='/' component={Home} />
           <Route exact path="/video" component = {Video} />
-          <Route exact path="/about" compoennt={About} />
-          <Route exact path="/contact" compoennt={Contact} />
+          <Route exact path="/about" component={About} />
+          <Route exact path="/contact" component={Contact} />
           <Route exact path='/dashboard' component={Dashboard} />
           <Route exact path='/auth/noAuth' component={NoAuth} />
           <Redirect to='/' />
