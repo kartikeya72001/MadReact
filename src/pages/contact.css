@@ -136,10 +136,16 @@ iframe {
 .size1 {
   width: 355px;
   max-width: 100%;
+  position:relative;
+}
+
+.p-r-25{
+  float:left;
 }
 
 .size2 {
   width: calc(100% - 43px);
+  foat:left;
   display: flex;
   flex-direction: column;
 }
