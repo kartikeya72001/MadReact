@@ -1,5 +1,10 @@
+@font-face{
+    font-family: "aboutfont";
+    src: url('/public/fonts/AirbnbCerealExtraBold.ttf') format('truetype'),
+         url('/public/fonts/AirbnbCerealMedium.woff') format('woff');
+}
 .text{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'aboutfont', sans-serif;
     margin: 1rem 0rem;
     font-weight: 400;
     color: black;
