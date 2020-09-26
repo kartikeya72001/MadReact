@@ -17,7 +17,7 @@ class About extends Component{
                 <Navbar color="black"></Navbar>
                 <Container style={{position:"relative",top:"14rem"}}>
                 <Row>
-                    <Col sm={7}><img src="/images/AboutBackground.png"/></Col>
+                    <Col sm={7} style={{position:"relative",top:"7rem",marginBottom:"15rem"}}><img src="/images/AboutBackground.png"/></Col>
                     <Col sm={5}>
                         <h1>About Music Art Dance</h1>
                         <p>
