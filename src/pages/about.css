@@ -1,0 +1,10 @@
+.text{
+    font-family: 'Roboto', sans-serif;
+    margin: 1rem 0rem;
+    font-weight: bold;
+}
+
+.heading{
+    margin: 2rem 0rem;
+    font-size: 4rem;
+}
