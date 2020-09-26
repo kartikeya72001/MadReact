@@ -14,8 +14,8 @@ class About extends Component{
     render(){
         return(
             <div>
-                <Navbar></Navbar>
-                <Container>
+                <Navbar color="black"></Navbar>
+                <Container style={{position:"relative",top:"14rem"}}>
                 <Row>
                     <Col sm={7}><img src="/images/AboutBackground.png"/></Col>
                     <Col sm={5}>
