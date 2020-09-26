@@ -1,10 +1,35 @@
 .text{
     font-family: 'Roboto', sans-serif;
     margin: 1rem 0rem;
-    font-weight: bold;
+    font-weight: 400;
+    color: black;
 }
-
+.heading{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    color: black;
+    margin: 2rem 0rem;
+    font-size: 6rem;
+}
+.text{
+    font-family: 'Roboto', sans-serif;
+    margin: 1rem 0rem;
+    font-weight: 500;
+    color:black;
+}
 .heading{
     margin: 2rem 0rem;
     font-size: 4rem;
+}
+
+.image{
+    position:relative;
+    top:3rem;
+    margin-bottom:15rem;
+}
+
+.contain{
+    position:relative;
+    top:14rem;
+    width:90%;
 }
