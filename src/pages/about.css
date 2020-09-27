@@ -1,7 +1,6 @@
 @font-face{
     font-family: "aboutfont";
-    src: url('/public/fonts/AirbnbCerealExtraBold.ttf') format('truetype'),
-         url('/public/fonts/AirbnbCerealMedium.woff') format('woff');
+    src: url('/fonts/AirbnbCerealMedium.woff') format('woff');
 }
 .text{
     font-family: 'aboutfont', sans-serif;
@@ -11,10 +10,11 @@
 }
 .heading{
     text-align: center;
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'aboutfont', sans-serif;
     color: black;
     margin: 2rem 0rem;
-    font-size: 6rem;
+    font-size: 4rem;
+    font-weight:300
 }
 .image{
     position:relative;
