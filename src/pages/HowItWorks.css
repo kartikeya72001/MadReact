@@ -78,9 +78,23 @@
 #b2{
     width:18rem;
 }
+.b:hover{
+    color: #fff;
+    background-color: #c9302c;
+    border-color: #ac2925
+}
+@media screen and (max-width:768px){
+    .b{
+        margin: 0 0 2rem 0;
+    }
+    #contain2{
+        position:relative;
+        top: 10rem;
+    }
+}
 
 #contain2{
     display:none;
     position:relative;
-    top: 11rem;
+    top: 15rem;
 }

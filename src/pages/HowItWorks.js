@@ -25,8 +25,8 @@ class HowitWorks extends Component{
                 <Navbar color="black"></Navbar>
                 <Container className="buttons">
                     <Row>
-                        <Col md={6}><button className="b" id="b1" onClick ={this.buttonA}>How it Works</button></Col>
-                        <Col md={6}><button className="b" id="b2" onClick ={this.buttonB}>Participate in Contests</button></Col>
+                        <Col md={6}><button className="b" id="b1" onClick = {this.buttonA}>How it Works</button></Col>
+                        <Col md={6}><button className="b" id="b2" onClick = {this.buttonB}>Participate in Contests</button></Col>
                     </Row>
                 </Container>
                 <Container className="contain" id="contain1">
