@@ -15,12 +15,13 @@ class HowitWorks extends Component{
         return(
             <div>
                 <Navbar color="black"></Navbar>
-                <Container>
+                <Container className="contain">
                     <Row style={{backgroundColor:"teal"}}>
                         <Col md={4}>
                             <img src="/images/HowItWorks/1a.png"></img>
                         </Col>
-                        <Col md={{ span: 4, offset: 4 }}>{`md={{ span: 4, offset: 4 }}`}<img src="/images/HowItWorks/1b.png"></img></Col>
+                        <Col md={4}></Col>
+                        <Col md={4}><img src="/images/HowItWorks/1b.png"></img></Col>
                     </Row>
                 </Container>
             </div>
