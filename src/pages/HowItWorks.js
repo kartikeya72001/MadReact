@@ -75,7 +75,7 @@ class HowitWorks extends Component{
                 </Container>
                 <Container id="contain2" style={{display:"none"}}>
                     <Row className="imgRow">
-                        <Col className="images">
+                        <Col className="">
                             <img src="/images/HowItWorks/p2.png"></img>
                         </Col>
                     </Row>
