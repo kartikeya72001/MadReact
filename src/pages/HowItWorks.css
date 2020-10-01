@@ -78,3 +78,9 @@
 #b2{
     width:18rem;
 }
+
+#contain2{
+    display:none;
+    position:relative;
+    top: 11rem;
+}
