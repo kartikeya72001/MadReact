@@ -13,6 +13,10 @@
 }
 .imgRow{
     margin: 1rem 0 1rem 0;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
 }
 
 #img1{
@@ -36,5 +40,8 @@
 @media screen and (max-width:768px){
     .image{
         display: none;
+    }
+    .imgRow{
+        flex-direction: column;
     }
 }
