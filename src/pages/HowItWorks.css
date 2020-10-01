@@ -13,11 +13,6 @@
 }
 .imgRow{
     margin: 1rem 0 1rem 0;
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: row;
-    height: 30rem;
 }
 
 #img1{
@@ -37,4 +32,9 @@
 }
 #img6{
     background-color: #67abea;
+}
+@media screen and (max-width:768px){
+    .image{
+        display: none;
+    }
 }
