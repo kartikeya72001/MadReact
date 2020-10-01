@@ -59,6 +59,13 @@ class HowitWorks extends Component{
                         <Col md={4} className="images"><img src="/images/HowItWorks/6b.png"></img></Col>
                     </Row>
                 </Container>
+                <Container>
+                    <Row className="imgRow">
+                        <Col className="images">
+                            <img src="/images/HowItWorks/p2.png"></img>
+                        </Col>
+                    </Row>
+                </Container>
             </div>
         )
     }
