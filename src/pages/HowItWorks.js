@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import Navbar from '../components/Navbar';
-import {Container,Col,Row,Button} from 'react-bootstrap';
+import {Container,Col,Row} from 'react-bootstrap';
 import "./HowItWorks.css"
 
 class HowitWorks extends Component{
@@ -17,8 +17,8 @@ class HowitWorks extends Component{
                 <Navbar color="black"></Navbar>
                 <Container className="buttons">
                     <Row>
-                        <Col md={6}><Button>How it Works</Button></Col>
-                        <Col md={6}><Button>Participate in Contests</Button></Col>
+                        <Col md={6}><button className="b" id="b1">How it Works</button></Col>
+                        <Col md={6}><button className="b" id="b2">Participate in Contests</button></Col>
                     </Row>
                 </Container>
                 <Container className="contain">
