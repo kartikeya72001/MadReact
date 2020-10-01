@@ -5,8 +5,36 @@
 }
 .images{
     padding:5rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
 }
 .imgRow{
-    background-color: teal;
     margin: 1rem 0 1rem 0;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    height: 30rem;
+}
+
+#img1{
+    background-color: #a2a2ff;
+}
+#img2{
+    background-color: #75ddd1;
+}
+#img3{
+    background-color: #fb9876;
+}
+#img4{
+    background-color: #ffc87c;
+}
+#img5{
+    background-color: #c6d65e;
+}
+#img6{
+    background-color: #67abea;
 }
