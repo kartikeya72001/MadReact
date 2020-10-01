@@ -20,6 +20,7 @@ function App(){
           <Route exact path="/contact" component={Contact} />
           <Route exact path='/dashboard' component={Dashboard} />
           <Route exact path='/auth/noAuth' component={NoAuth} />
+          <Route exact path='/HowItWorks' component={}/>
           <Redirect to='/' />
         </Switch>
         <Footer />
