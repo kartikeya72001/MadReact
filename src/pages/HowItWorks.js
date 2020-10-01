@@ -11,17 +11,25 @@ class HowitWorks extends Component{
 
         ]
     }
+    buttonA = () =>{
+        document.getElementById("contain1").style.display = "block";
+        document.getElementById("contain2").style.display = "none";
+    }
+    buttonB = () =>{
+        document.getElementById("contain1").style.display = "none";
+        document.getElementById("contain2").style.display = "block";
+    }
     render(){
         return(
             <div>
                 <Navbar color="black"></Navbar>
                 <Container className="buttons">
                     <Row>
-                        <Col md={6}><button className="b" id="b1">How it Works</button></Col>
-                        <Col md={6}><button className="b" id="b2">Participate in Contests</button></Col>
+                        <Col md={6}><button className="b" id="b1" onClick ={this.buttonA}>How it Works</button></Col>
+                        <Col md={6}><button className="b" id="b2" onClick ={this.buttonB}>Participate in Contests</button></Col>
                     </Row>
                 </Container>
-                <Container className="contain">
+                <Container className="contain" id="contain1">
                     <Row className="imgRow" id="img1">
                         <Col md={4} className="images">
                             <img src="/images/HowItWorks/1a.png"></img>
@@ -65,7 +73,7 @@ class HowitWorks extends Component{
                         <Col md={4} className="images"><img src="/images/HowItWorks/6b.png"></img></Col>
                     </Row>
                 </Container>
-                <Container>
+                <Container id="contain2" style={{display:"none"}}>
                     <Row className="imgRow">
                         <Col className="images">
                             <img src="/images/HowItWorks/p2.png"></img>
